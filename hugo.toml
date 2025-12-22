@@ -1,0 +1,6 @@
+baseURL = 'https://nakil.org/'
+languageCode = 'tr-TR'
+title = 'NAkil Yorumlar'
+theme = 'PaperMod'
+
+
