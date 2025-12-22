@@ -3,4 +3,7 @@ languageCode = 'tr-TR'
 title = 'NAkil Yorumlar'
 theme = 'PaperMod'
 
-
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+    
