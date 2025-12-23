@@ -1,5 +1,5 @@
 baseURL = 'https://nakil.org/'
-languageCode = 'tr-TR'
+languageCode = 'tr'
 title = 'NAkil Yorumlar'
 theme = 'PaperMod'
 
@@ -7,19 +7,22 @@ theme = 'PaperMod'
   [caches.images]
     dir = ':cacheDir/images'
 
-  [params]
-    ShowShareButtons = false
-    defaultTheme = 'dark'
+[params]
+  ShowShareButtons = false
+  defaultTheme = 'dark'
+
 
 [menus]
   [[menus.main]]
-    identifier = 'tags'
+    identifier = 'Etiketler'
     name = 'Etiketler'
     pageRef = '/tags/'
+  [[menus.main]]
+    identifier = 'Search'
+    name = 'Search'
+    pageRef = '/search/'
 
-  [assets]
-    favicon = true
-    favicon16x16 = "<link / abs url>"
-    favicon32x32 = "<link / abs url>"
-    apple_touch_icon = "<link / abs url>"
-    safari_pinned_tab = "<link / abs url>"
+[outputs]
+  home = ['html', 'rss', 'json']
+  section = ['html', 'rss', 'json']
+  taxonomy = ['html', 'rss', 'json']
