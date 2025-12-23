@@ -1,7 +1,8 @@
 baseURL = 'https://nakil.org/'
 languageCode = 'tr'
-title = 'NAkil Yorumlar'
+title = ' '
 theme = 'PaperMod'
+icon = 'https://www.nakil.org/favicon.ico'
 
 [caches]
   [caches.images]
@@ -10,9 +11,11 @@ theme = 'PaperMod'
 [params]
   ShowShareButtons = false
   defaultTheme = 'dark'
+	label.icon = "/nakil.png"
+
+
   [assets]
     favicon = 'https://www.nakil.org/favicon.ico'
-
 
 [menus]
   [[menus.main]]
