@@ -6,4 +6,20 @@ theme = 'PaperMod'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-    
+
+  [params]
+    ShowShareButtons = false
+    defaultTheme = 'dark'
+
+[menus]
+  [[menus.main]]
+    identifier = 'tags'
+    name = 'Etiketler'
+    pageRef = '/tags/'
+
+  [assets]
+    favicon = true
+    favicon16x16 = "<link / abs url>"
+    favicon32x32 = "<link / abs url>"
+    apple_touch_icon = "<link / abs url>"
+    safari_pinned_tab = "<link / abs url>"
