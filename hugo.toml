@@ -10,6 +10,8 @@ theme = 'PaperMod'
 [params]
   ShowShareButtons = false
   defaultTheme = 'dark'
+  [assets]
+    favicon = 'https://www.nakil.org/favicon.ico'
 
 
 [menus]
@@ -17,12 +19,12 @@ theme = 'PaperMod'
     identifier = 'Etiketler'
     name = 'Etiketler'
     pageRef = '/tags/'
+    weight = 1
   [[menus.main]]
-    identifier = 'Search'
-    name = 'Search'
+    identifier = 'Ara'
+    name = 'Ara'
     pageRef = '/search/'
+    weight = 2
 
 [outputs]
   home = ['html', 'rss', 'json']
-  section = ['html', 'rss', 'json']
-  taxonomy = ['html', 'rss', 'json']

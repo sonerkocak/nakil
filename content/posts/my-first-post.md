@@ -6,6 +6,8 @@ tags = ["first", "very"]
 +++
 ## Introduction
 
+![name](/nakil.png#center)
+
 This is **bold** text, and this is *emphasized* text.
 
 Visit the [Hugo](https://gohugo.io) website!

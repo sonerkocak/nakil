@@ -1,6 +1,6 @@
 +++
-title = 'Search'
+title = 'Ara'
 layout = 'search'
 summary = 'search'
-placeholder = 'placeholder text in search input box'
+placeholder = 'Aramak istediğiniz metni giriniz..'
 +++

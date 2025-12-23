@@ -23,8 +23,8 @@
     <loc>http://localhost:1415/tags/very/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1415/categories/</loc>
-  </url><url>
     <loc>http://localhost:1415/search/</loc>
+  </url><url>
+    <loc>http://localhost:1415/categories/</loc>
   </url>
 </urlset>
