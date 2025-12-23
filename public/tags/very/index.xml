@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Very on  </title>
-    <link>http://localhost:1313/tags/very/</link>
+    <link>http://localhost:1417/tags/very/</link>
     <description>Recent content in Very on  </description>
     <generator>Hugo -- 0.153.1</generator>
     <language>tr</language>
     <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/very/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1417/tags/very/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:1417/posts/my-first-post/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>http://localhost:1417/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;name&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/nakil.png#center&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;name&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1417/nakil.png#center&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
 &lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Second Post</title>
-      <link>http://localhost:1313/posts/my-second-post/</link>
+      <link>http://localhost:1417/posts/my-second-post/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <guid>http://localhost:1417/posts/my-second-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;That is &lt;strong&gt;bold&lt;/strong&gt; great, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
 &lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>

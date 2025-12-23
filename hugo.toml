@@ -9,13 +9,14 @@ icon = 'https://www.nakil.org/favicon.ico'
     dir = ':cacheDir/images'
 
 [params]
+  favicon = '/favicon.ico_'
   ShowShareButtons = false
   defaultTheme = 'dark'
 	label.icon = "/nakil.png"
 
 
   [assets]
-    favicon = 'https://www.nakil.org/favicon.ico'
+    _favicon = 'https://www.nakil.org/favicon.ico'
 
 [menus]
   [[menus.main]]
