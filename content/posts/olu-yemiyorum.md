@@ -62,7 +62,7 @@ Bize sıradan gelmesinin hayvanlara bir faydası var mı?
 
 - Endüstriyel Haycancılık bizi nelere ortak ediyor?
 
-Bir insan evladını öldürsem. Ve annesine "Yaşamına insanca son verdim" desem?
+Bir insan evladını öldürsem(!) Ve annesine "Yaşamına insanca son verdim" desem?
 
 **6-119:** “Onları saptıracağım, onları ümitlendireceğim ve onlara emredeceğim. Böylece hayvanların
 kulaklarını yaracaklar ve bu şekilde Allah’ın yarattığını değiştirecekler.” Allah dışında şeytanı
