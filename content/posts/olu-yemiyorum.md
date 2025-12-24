@@ -52,16 +52,17 @@ Diş yapımız, çene hareketimiz, tükürük enzimlerimiz ve bağırsak uzunlu�
 **90-12**: Sen sarp yokuş nedir bilir misin?  
 **90-13**: Boyunduruktakini çözmektir.
 
-Karıncayı ezmiyorum. Yaralı kuşu iyileştiriyorum. Ama civcivi, kuzuyu, balığı ve bızağıyı gözüme kestirdiğim anda yiyorum.
+Karıncayı ezmiyorum. Yaralı kuşu iyileştiriyorum. Ama civcivi, kuzuyu, balığı ve buzağıyı gözüme kestirdiğim anda yiyorum.
 3-5 tane değil, trilyonlarca hayvandan bahsediyorum.
 
 Tıpkı bizim gibi, beyinleri, sinir sistemleri ve hisleri var.
 Tabağımızdaki bir et parçası yaşamına devam etirmek isteyen bir canlıya ait.
-Korku, can çekişme, hüzün ve ölüm tadı var.
+Korku, can çekişme, hüzün ve ölüm kokusu / tadı var.
 Bize sıradan gelmesinin hayvanlara bir faydası var mı?
 
 - Endüstriyel Haycancılık bizi nelere ortak ediyor?
 
+Kendim kesmek zorunda kalsam o kadar et yer miydim acaba?  
 Bir insan evladını öldürsem(!) Ve annesine "Yaşamına insanca son verdim" desem?
 
 **6-119:** “Onları saptıracağım, onları ümitlendireceğim ve onlara emredeceğim. Böylece hayvanların
