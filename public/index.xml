@@ -2,30 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title> </title>
-    <link>http://localhost:1417/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on  </description>
     <generator>Hugo -- 0.153.1</generator>
     <language>tr-tr</language>
-    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1417/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Dec 2025 19:19:19 +1919</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1417/posts/my-first-post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1417/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;name&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1417/nakil.png#center&#34;&gt;&lt;/p&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <title>Ölü Yemiyorum</title>
+      <link>http://localhost:1313/posts/olu-yemiyorum/</link>
+      <pubDate>Wed, 24 Dec 2025 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/posts/olu-yemiyorum/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;    Et yemeden doyamayan, bağımlılığın zirvesinde biri neden vazgeçer?
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;kuran-ifadeleri&#34;&gt;Kur&amp;rsquo;an İfadeleri&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;2-168:&lt;/strong&gt; Ey insanlar! Yerden helâl ve temiz olandan yiyin ve şeytanın adımlarına uymayın. Muhakkak ki o, sizin için apaçık bir düşmandır.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meleklerin Öngörüsü&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2-30:&lt;/strong&gt;
+Böylece Rabbin meleklere: “Ben yeryüzünde bir halife kılacağım” dedi. (Melekleri O’na): “Biz seni devamlı olarak hamd ile tesbih ederken orada bozgunculuk yapıp &lt;strong&gt;&lt;code&gt;kan dökecek&lt;/code&gt;&lt;/strong&gt; olanı mı (halife) kılacaksın?” dediler. (Allah ise onlara): “Ben sizin bilmediklerinizi bilirim” dedi.&lt;br&gt;
+&lt;strong&gt;2-31:&lt;/strong&gt; Ve Adem’e isimleri öğretti ve onu meleklere arz edip: “Doğru sözlülerseniz haydi bunları isimleriyle bana haber verin” dedi.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>My Second Post</title>
-      <link>http://localhost:1417/posts/my-second-post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1417/posts/my-second-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;That is &lt;strong&gt;bold&lt;/strong&gt; great, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <title>Bilmiyorum Sorarım</title>
+      <link>http://localhost:1313/posts/bilmiyorum-sorarim/</link>
+      <pubDate>Tue, 23 Dec 2025 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/posts/bilmiyorum-sorarim/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Bilmiyorum&amp;rdquo; en güzel cevap&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;20-51: (Firavun): “Peki ilk nesillerin hali ne olacak?” dedi.&lt;br&gt;
+20-52: (Musa): “Onun bilgisi Rabbimin yanında olan bir kitaptadır. Rabbim yanlış yapmaz ve unutmaz” dedi:&lt;/p&gt;
+&lt;p&gt;46-23: (O): “İlim Allah’ın katındadır. Ben kendisiyle gönderildiğim şeyi size tebliğ ediyorum, fakat sizi cahillik eden bir topluluk olarak görüyorum” dedi.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sözü dinler, en güzeline uyarım:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;39-17: Sahte ilah ve inançlara kulluk etmekten sakınan ve Allah’a yönelenlere gelince; onlara müjde
+vardır, o halde kullarımı müjdele.&lt;br&gt;
+39-18: Onlar ki sözü dinlerler sonra da en güzeline uyarlar. İşte onlar Allah’ın hidayete erdirdiği kişilerdir ve onlar, akıl sahipleridir.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
