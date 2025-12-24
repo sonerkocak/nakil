@@ -5,7 +5,7 @@ draft = false
 tags = ["ölü", "beslenme", 'leş', 'hayvanlar']
 +++
 
-        Et yemeden doyamayan, bağımlılığın zirvesinde biri neden vazgeçer?
+_Et yemeden doyamayan, bağımlılığın zirvesinde biri neden vazgeçer?_
 
 ## Kur'an İfadeleri
 
