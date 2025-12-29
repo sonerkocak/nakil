@@ -5,6 +5,9 @@ draft = false
 tags = ["kuran", "muhammed", 'peygamber']
 +++
 
+![The Magic Hexagon](/hex.gif?raw=true "The Magic Hexagon")
+
+
         74-30: Üzerinde on dokuz
 
 - __1881: "Mustafa" doğdu (19 x 99)__
