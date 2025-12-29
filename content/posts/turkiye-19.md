@@ -2,7 +2,7 @@
 title = "Türkiye'de 19"
 date = 2025-12-29T19:19:19+19:19
 draft = false
-tags = ["kuran", "muhammed", 'peygamber']
+tags = ["Türkiye", "19", 'tarih', 'öngörü']
 +++
 
 ![The Magic Hexagon](/hex.gif?raw=true "The Magic Hexagon")
