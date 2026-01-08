@@ -150,7 +150,6 @@ _Mutlak Adalet sahibi bu cümleyi hangi şartlarda kurabilir?_
 4-79: Sana iyilikten ne isabet ederse o, Allah’tandır. Kötülükten ne isabet ederse de o, kendindendir. Seni insanlara bir resul olarak gönderdik. Şahit olarak Allah yeter.
 
 _Bakınız:_   
-[Kuran Mucizeler](https://www.youtube.com/watch?v=v35bbE61Dxw)  
 [Gürkan Engin](https://www.youtube.com/watch?v=kj0uF04vCsU&list=PL9FWGaOCg2z74CkwpGD6n32yD3efHIWEr&index=4)  
 [Taner Demirci](https://www.youtube.com/watch?v=lr_XC7eATPM&pp=0gcJCU0KAYcqIYzv)  
 [Edip Yüksel](https://www.youtube.com/watch?v=2vOELobKaQ4&pp=0gcJCU0KAYcqIYzv)  
