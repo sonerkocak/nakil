@@ -116,6 +116,10 @@ _* 19 kimsenin malı değil. Rahman'dan beşere Hidayet / Huda(Ebced: 19)_
 _* 19 günümüzün en büyük nimeti, dolayısıyla da en büyük imtihanı._  
 _* 19'un henüz başındayız. Sanıyorum ki; Allah'ın Nasıralısı gelecek ve Kudüs'un Ruhu ile desteklenip (bizler dahil) Ehl-i Kitap’ı hidayete erdirecek._
 
+Rabbimiz İncil'de İsa'ya seslenir:  
+"Alfa ve Omega, birinci ve sonuncu, başlangıç ve son Ben'im." (Vahiy 22:13)  
+_* Α ve Ω: Yunan alfabesinin ilk ve son harfleri._
+
 4-159: Ehli Kitap’tan hiç kimse yoktur ki ona(İsa) ölümünden önce iman etmiş olmasın. Kıyamet Günü, o onlar için şehit olacaktır.
 
 110-1: Nasrullah ve fetih geldiği  
