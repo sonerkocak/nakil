@@ -144,6 +144,10 @@ _Rahman dilediğini geri döndürür mü?_
 23-99: “Rabbim, beni geri gönder!”  
 23-100: .."Asla"..  
 _Geri dönmek değil, önceki hayatına dönmek imkansız._  
+_Kainattaki tek verimsiz şey İnsan hayatı. Dilediği bir rahme tekrar gönderirse verim: %100_  
+Yasanın Tekrarı 5/9: Benden nefret edenin babasının işlediği suçun hesabını çocuklarından, üçüncü, dördüncü kuşaklardan sorarım.  
+_Mutlak Adalet sahibi bu cümleyi hangi şartlarda kurabilir?_  
+4-79: Sana iyilikten ne isabet ederse o, Allah’tandır. Kötülükten ne isabet ederse de o, kendindendir. Seni insanlara bir resul olarak gönderdik. Şahit olarak Allah yeter.
 
 _Bakınız:_   
 [Kuran Mucizeler](https://www.youtube.com/watch?v=v35bbE61Dxw)  
