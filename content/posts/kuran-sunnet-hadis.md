@@ -42,6 +42,8 @@ tags = ["kuran", "Sünnet", 'Hadis']
 33-61: Lanetlenirler. Nerede yakalanırlarsa etkisiz hale getirilebilirler.  
 33-62: (Bu), önceden gelip geçmiş (ümmetlerde de uygulanmış) Allah’ın bir sünnetidir. Allah’ın sünnetinde değişiklik bulamazsın.
 
+39-23: Allah, sözün en güzelini, benzetmeye dayalı, ikişerli bir biçimde kitap olarak indirdi. Rablerinden korkanların derileri ondan ötürü ürperir. Sonra derileri ve kalpleri Allah’ın anılmasıyla yumuşar. Allah, istediğini ve dileyeni işte böyle hidayete erdirir. Allah’ın saptırdığı kimse için ise artık yol gösterici yoktur.
+
 40-83: Resulleri onlara delillerle geldiğinde kendilerinde olan bilgiden dolayı sevindiler. (Fakat) alaya almakta oldukları şey onları kuşattı.  
 40-84: Azabımızı gördüklerinde: “Bir olan Allah’a iman ettik ve O’na ortak koştuğumuz şeyleri de reddediyoruz” derler.  
 40-85: Fakat azabımızı gördükleri zamanki imanları, onlara fayda sağlamadı. Bu, Allah’ın kulları arasında süregelen sünnetidir. İşte kâfirler o anda hüsrana uğramışlardır.
