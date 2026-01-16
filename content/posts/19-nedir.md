@@ -47,6 +47,7 @@ _* Sekiz(Se-Mim-Nun) kökü 19 kez geçiyor._
 74-1: Ey gizlenen,  
 74-2: Kalk ve uyar.  
 _* Bu ilk cümlede 19 harf var._  
+_* Ebced değeri ise: 1974_  
 74-3: Rabbini yücelt.  
 74-4: Örtünü temizle  
 74-5: ve pislikten çık.  
