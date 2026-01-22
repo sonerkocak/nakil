@@ -40,13 +40,15 @@ saatleri: | May 28  07:55 | Nov 21  08:21
 [Astropixels](https://astropixels.com/ephemeris/phasescat/phases0601.html)
 
 ✅ Ay kelimelerini arayalım ⬇️  
-📌 2-185  ay x 2 adet  
-🔹 2-194  ay x 2 adet  
-🔹 2-217  ay x 1 adet  
-📌 629. Ayet: 4-136  
+👉 Kuran'da Ay/Şehr toplam 12 kez geçer.  
+📌 2-185 ay x 2 adet  
+🔹 2-194 ay x 2 adet  
+🔹 2-217 ay x 1 adet  
+📌 (629.ayet) 4-136 ay x 0 adet  
 💎 5 ay kelimesi geçiyor. 610 Güneş yılının 5. ayı ➡️ Mayıs  
 
 ✅ Gün kelimelerini arayalım ⬇️  
+👉 Kuran'da Gün/Yevm toplam 365 kez geçer.  
 🔹 Önceki geçişleri saymıyoruz.  
 📌 2-185 gün x 0 adet  
 🔹 2-212 gün x 1 adet  
@@ -55,28 +57,27 @@ saatleri: | May 28  07:55 | Nov 21  08:21
 🔹 2-249 gün x 1 adet  
 🔹 2-254 gün x 1 adet  
 🔹 2-259 gün x 2 adet  
-🔹 2|264 gün x 1 adet  
-🔹 2|281 gün x 1 adet  
-🔹 3|9 gün x 1 adet  
-🔹 3|25 gün x 1 adet  
-🔹 3|30 gün x 1 adet  
-🔹 3|55 gün x 1 adet  
-🔹 3|77 gün x 1 adet  
-🔹 3|106 gün x 1 adet  
-🔹 3|114 gün x 1 adet  
-🔹 3|155 gün x 1 adet  
-🔹 3|161 gün x 1 adet  
-🔹 3|166 gün x 1 adet  
-🔹 3|180 gün x 1 adet  
-🔹 3|185 gün x 1 adet  
-🔹 3|194 gün x 1 adet  
-🔹 4|38 gün x 1 adet  
-🔹 4|39 gün x 1 adet  
-🔹 4|59 gün x 1 adet  
-🔹 4|87 gün x 1 adet  
-🔹 4|109 gün x 1 adet  
-🔹 4|136 gün x 1 adet  
-📌 629. Ayet: 4-136  
+🔹 2-264 gün x 1 adet  
+🔹 2-281 gün x 1 adet  
+🔹 3-9 gün x 1 adet  
+🔹 3-25 gün x 1 adet  
+🔹 3-30 gün x 1 adet  
+🔹 3-55 gün x 1 adet  
+🔹 3-77 gün x 1 adet  
+🔹 3-106 gün x 1 adet  
+🔹 3-114 gün x 1 adet  
+🔹 3-155 gün x 1 adet  
+🔹 3-161 gün x 1 adet  
+🔹 3-166 gün x 1 adet  
+🔹 3-180 gün x 1 adet  
+🔹 3-185 gün x 1 adet  
+🔹 3-194 gün x 1 adet  
+🔹 4-38 gün x 1 adet  
+🔹 4-39 gün x 1 adet  
+🔹 4-59 gün x 1 adet  
+🔹 4-87 gün x 1 adet  
+🔹 4-109 gün x 1 adet  
+📌 (629.ayet) 4-136 gün x 1 adet  
 💎 28 gün kelimesi geçiyor. 610 yılı Mayıs ayının ➡️ 28. günü
 
 👉 Astronomi ilmi ne diyor? 610 Mayıs 28 saat 07:55  
