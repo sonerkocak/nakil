@@ -41,6 +41,7 @@ saatleri: | May 28  07:55 | Nov 21  08:21
 
 ✅ Ay kelimelerini arayalım ⬇️  
 👉 Kuran'da Ay/Şehr toplam 12 kez geçer.  
+🔹 Öncesinde geçmiyor.  
 📌 2-185 ay x 2 adet  
 🔹 2-194 ay x 2 adet  
 🔹 2-217 ay x 1 adet  
@@ -49,7 +50,7 @@ saatleri: | May 28  07:55 | Nov 21  08:21
 
 ✅ Gün kelimelerini arayalım ⬇️  
 👉 Kuran'da Gün/Yevm toplam 365 kez geçer.  
-🔹 Önceki geçişleri saymıyoruz.  
+🔹 Önceki geçişleri saymıyoruz. Ay geçişi bize yöntemi öğretiyor.  
 📌 2-185 gün x 0 adet  
 🔹 2-212 gün x 1 adet  
 🔹 2-228 gün x 1 adet  
@@ -88,9 +89,9 @@ saatleri: | May 28  07:55 | Nov 21  08:21
 👉 Kameri Ay, Hilal gözlemiyle başlamaktadır.  
 🔹 30 Mayıs 610 girdiğimizde ➡️ 1 Recep  
 ⬇️ 1 Recep aslında 1 Ramazan ise ⬇️  
-✔ 21 Aralık 2025 ➡️ (eski) 1 Recep ➡️ (yeni) 1 Ramazan olur.
+✔ 21 Aralık 2025 ➡️ (eski) 1 Recep ➡️ (yeni) 1 Ramazan olur.  
+[Hicri <=> Miladi](https://hicrimiladi.com/Hicri-Miladi-Rumi.htm)
 
 💎 629. sure ➡️ 4:136 kaç kelime? ➡️ 28  
 💎 İman etmemiz istenen 5: Allah, Melekler, Kitaplar, Resuller ve Ahiret Günü
 
-[Hicri <=> Miladi](https://hicrimiladi.com/Hicri-Miladi-Rumi.htm)
