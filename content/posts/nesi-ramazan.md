@@ -1,6 +1,6 @@
 +++
 title = 'Nesi Ramazan?'
-date = 2026-01-22T19:19:19+19:19
+date = 2026-01-23T19:19:19+19:19
 draft = false
 tags = ["Nesi", "Ramazan"]
 +++
