@@ -1,6 +1,6 @@
 +++
 title = 'Hanif: Sapkın'
-date = 2026-01-24T19:19:19+19:19
+date = 2026-01-25T19:19:19+19:19
 draft = false
 tags = ["Hanif", "İbrahim", "Millet"]
 +++
@@ -8,7 +8,7 @@ tags = ["Hanif", "İbrahim", "Millet"]
 🔎 Hanif kelimesinin anlamı:  
 🔹 Süryanice: Hak dinden olmayan. Kafir.  
 🔹 İbranice: Dinde yozlaşan. Sapkın.  
-🔹 Arapça: (Kuran'daki kullanımıyla anlamı değişiyor) Şirkten sapan. Hakka yönelen.  
+🔹 Arapça: (Kuran'daki kullanımıyla anlamı değişiyor) Şirkten sapan, Hakka yönelen.  
 
 📌 60-4: İbrahim’de ve onunla birlikte olanlarda sizin için güzel bir örnek vardır. Hani onlar kavimlerine: “Biz sizden ve Allah’ın dışında kulluk ettiklerinizden uzağız. Size kafirlik ediyoruz. Siz, Allah’a bir olarak iman edinceye kadar bizimle sizin aranızda ebedî düşmanlık ve kin belirmiştir” demişlerdi..  
 🔎 Dininizin ne olduğunu anladık ve bilerek reddediyoruz.  
