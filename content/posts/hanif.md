@@ -1,6 +1,6 @@
 +++
 title = 'Hanif: Sapkın'
-date = 2026-01-25T19:19:19+19:19
+date = 2026-01-26T19:19:19+19:19
 draft = false
 tags = ["Hanif", "İbrahim", "Millet"]
 +++
