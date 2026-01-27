@@ -79,7 +79,7 @@ tags = ["Selam Yurdu", "İlk Cennet", "Cennet", "Cehennem", "İnsan", "Adem", "�
 📌 2-38: Ve: “Hepiniz inin oradan! Size tarafımdan bir hidayet(huda) geldiğinde kim hidayetime uyarsa onlar için korku yoktur ve onlar üzülmeyeceklerdir” dedik.  
 👉 Rabbimiz de bizleri öldürüp(mevt) o cennetten çıkardı.  
 👉 Daha alçak/kötü/zor olan bu kainata imtihan için gönderdi.  
-👉 İkinci ve son şansımız. Kıyamete kadar çok boyutlu biir sınavdayız.  
+👉 İkinci ve son şansımız. Kıyamete kadar çok boyutlu bir sınavdayız.  
 
 📌 17-62: “Şu benim üzerime daha kerim kıldığına bak! Eğer beni Kıyamet Günü’ne kadar ertelersen muhakkak ki az bir kısmı dışında onun soyuna hükmedeceğim!” dedi.  
 📌 17-63: (Allah): “Git! Artık onlardan kim sana uyarsa cezanız cehennemdir. Tastamam bir ceza...” dedi:  
@@ -161,5 +161,6 @@ tags = ["Selam Yurdu", "İlk Cennet", "Cennet", "Cehennem", "İnsan", "Adem", "�
 
 💎 Huda / Yol gösteren / Kuran: 19 x 1 (ebced)  
 💎 Sıratin mustekim / Doğru yol: 19 x 50 (ebced)  
+💎 Sur kökü: 19 x 1 (geçiş)  
 ⚠️ Delalet / Yoldan Sapan: 43 X 20 (ebced)  
 👉 4 + 3 = 7 kapılı Cehennem (15:44)
