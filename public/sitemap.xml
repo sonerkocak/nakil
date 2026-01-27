@@ -3,7 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-26T19:19:19+19:19</lastmod>
+    <lastmod>2026-01-27T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/adem/</loc>
+    <lastmod>2026-01-27T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hikaye-insan/</loc>
+    <lastmod>2026-01-27T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/iblis/</loc>
+    <lastmod>2026-01-27T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ilk-cennet/</loc>
+    <lastmod>2026-01-27T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/insan/</loc>
+    <lastmod>2026-01-27T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-01-27T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/selam-yurdu/</loc>
+    <lastmod>2026-01-27T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%C5%9Feytan/</loc>
+    <lastmod>2026-01-27T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-27T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/hanif/</loc>
     <lastmod>2026-01-26T19:19:19+19:19</lastmod>
@@ -15,21 +42,6 @@
     <lastmod>2026-01-26T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/millet/</loc>
-    <lastmod>2026-01-26T19:19:19+19:19</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-01-26T19:19:19+19:19</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/selam/</loc>
-    <lastmod>2026-01-26T19:19:19+19:19</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/selam-yurdu/</loc>
-    <lastmod>2026-01-26T19:19:19+19:19</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-01-26T19:19:19+19:19</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/yurdu/</loc>
     <lastmod>2026-01-26T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/anahtar-harfler/</loc>
