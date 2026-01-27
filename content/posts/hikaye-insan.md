@@ -26,38 +26,35 @@ tags = ["Selam Yurdu", "İlk Cennet", "İnsan", "Adem", "İblis", "Şeytan"]
 👉 Takva: Entelektüel Beyin. Sonsuz olasılıklar. 5 yaşından sonra gelişen sorgu, irade, erdem vb. yeteneklerimiz.  
 
 📌 15-29: “Onu biçimlendirip ona ruhumdan üflediğimde onu hürmetle kabullenin"  
+👉 Sur: Biçimlendirme/Suretlendirme.  
 👉 Bilincimizin bedenlenmesi de hayata dönüşmüyor.  
 👉 Ancak Allah'ın ruhundan üflemesi ile hayat başlıyor.  
-👉 Mevt ise Allah'ın ruhunu geri çekmesiyle başlayan acı süreç ve gerçek ölüm.  
+👉 Mevt ise Allah'ın ruhunun çekmesiyle başlayan acı süreç ve gerçek ölüm.  
 👉 Vefat ise bedensel hayatın kayıt altına alınması.  
-👉 Sadece vefat ederek bilincimiz ve Ruh bu birinci gök bedenimizden ayrılabilir. Başka gökte bedenlenip hayatımıza devam edebiliriz.
+👉 Sadece vefat ederek; bilincimiz, Ruh ile bu birinci gök bedenimizden ayrılabilir. Başka gökte bedenlenip hayatımıza devam edebiliriz.
 
-🔎 Önce bilinçlerimiz yaratıldı, sonra o cennet/bahçe'ye uygun bedenimize yüklendik.  
-🔎 Hepimiz o bahçeye yerleştirildik. Adem peygamber örneğinde anlatıldığı gibi.  
-🔎 Yüce Mecliste Melekler ve İblis vardı. Melekler kötülük(fücur) sahibi değiller.  
-🔎 İblis de bizler gibi imtihanda olan ama yükseltilmiş bir beşer. Önceden yaratılmış Cin'lerden.  
-📌 7-11: Ve andolsun sizi yarattık sonra size şekil verdik sonra meleklere “Adem’e hürmet edin!” dedik.  İblis hariç hürmet gösterdiler. O, hürmet edenlerden olmadı.  
-📌 7-16: (İblis): “Bundan sonra beni saptırman sebebiyle onlara (karşı) mutlaka senin doğru yoluna
-çökeceğim” dedi:  
-📌 7-17: “Sonra muhakkak ki onlara önlerinden, arkalarından, sağlarından, sollarından geleceğim.
-Onların çoğunu şükredici bulmayacaksın.”  
+📌 7-11: Ve andolsun sizi yarattık sonra size şekil(suret) verdik sonra meleklere “Adem’e hürmet edin!” dedik.  İblis hariç hürmet gösterdiler. O, hürmet edenlerden olmadı.  
+📌 7-16: (İblis): “Bundan sonra beni saptırman sebebiyle onlara (karşı) mutlaka senin doğru yoluna çökeceğim” dedi:  
+📌 7-17: “Sonra muhakkak ki onlara önlerinden, arkalarından, sağlarından, sollarından geleceğim. Onların çoğunu şükredici bulmayacaksın.”  
 📌 7-18: (Allah): “Kınanmış ve kovulmuş olarak oradan çık! Muhakkak ki onlardan sana kim uyarsa cehennemi sizlerle dolduracağım” dedi.  
+👉 Önce bilinçlerimiz yaratıldı, sonra o cennet/bahçe'ye uygun bedenimize yüklendik.  
+👉 İstisnasız hepimiz o bahçeye yerleştirildik. Adem peygamber örneğinde anlatıldığı gibi.  
+👉 Yüce Mecliste Melekler ve İblis vardı. Melekler kötülük(fücur) sahibi değiller.  
+👉 İblis de bizler gibi imtihanda olan ama yükseltilmiş bir beşer. Önceden yaratılmış Cin'lerden.  
 
-🔎 İblis sınavı kaybetti. Tövbe etmek yerine çoğumuza sınavı kaybettirmeyi tercih etti.  
-🔎 Allah bizi en güzel donanımda yarattı ve en aşağı indirdi.  
-🔎 Bizi zalim ve cahil yapan şey irademizi kullanıp yükselmiyor olmamız.  
 📌 33-72: Muhakkak ki biz sorumluluğu göklere, yere ve dağlara sunduk da onu yüklenmekten kaçındılar ve ondan korktular. Onu insan yüklendi. (Fakat) o, zalim ve cahildir.  
+👉 Allah bizi en güzel donanımda yarattı ve en aşağıya indirdi.  
+👉 İblis sınavı kaybetti. Tövbe etmek yerine çoğumuza sınavı kaybettirmeyi tercih etti.  
+👉 Bizi zalim ve cahil yapan şey irademizi kullanıp yükselmiyor olmamız.  
 
-🔎 Allah'a gönüllü olarak söz verdik. Kolay görünen sınav, İblis'i düşman bilmediğimiz ve yine sonsuzluk hissiyle aldandığımız için çok sert geçiyor.  
 📌 7-172: Hani Rabbin, Ademoğullarından kendileri ardından gelen soylarını almış ve onları kendi kendilerine şahit tutmuştu: “Ben Rabbiniz değil miyim?” “Bilakis, biz (buna) şahidiz” demişlerdi. Bunu yapmamız, Kıyamet Günü “Biz bundan habersizdik!” dememeniz içindir.  
+👉 Allah'a gönüllü olarak söz verdik. Kolay görünen sınav, İblis'i düşman bilmediğimiz, yine sonsuzluk hissiyle aldandığımız ve yeteneklerimizi kullanmadığımız için çok sert geçiyor.  
 
-
-
-🔎 Ölümsüz olmadığımız o bahçede İblis bizi sonsuzluk vaadiyle kandırdı.   
 📌 7-19: (Allah): “Ey Adem! Sen ve eşin cennete yerleşin ve istediğiniz yerden yiyin. (Fakat) bu ağaca yaklaşmayın. Yoksa zalimlerden olursunuz” (dedi).    
 📌 7-20: Şeytan onlarda gizli olan kötülüğün açığa çıkması için o ikisine fısıldadı: “Rabbiniz, sırf iki melik olursunuz veya ebedî kalanlardan olursunuz diye bu ağaçtan sizi men etti” dedi.  
 📌 7-21: Ve “Gerçekten ben size öğüt verenlerdenim” (diye) o ikisine yemin etti.  
-📌 7-22: Böylece aldatarak o ikisine rehber oldu. O ağaçtan tadınca da kötülük (potansiyelleri) açığa çıktı ve birbirleriyle cennet serveti için kavga etmeye başladılar. Rableri ikisine: “Ben size bu ağacı yasaklamadım mı? Size ‘Muhakkak ki şeytan sizin apaçık düşmanınızdır!’ demedim mi?” diye seslendi.
+📌 7-22: Böylece aldatarak o ikisine rehber oldu. O ağaçtan tadınca da kötülük (potansiyelleri) açığa çıktı ve birbirleriyle cennet serveti için kavga etmeye başladılar. Rableri ikisine: “Ben size bu ağacı yasaklamadım mı? Size ‘Muhakkak ki şeytan sizin apaçık düşmanınızdır!’ demedim mi?” diye seslendi.  
+👉 Ölümsüz olmadığımız o bahçede İblis bizi sonsuzluk vaadiyle kandırdı.   
 
 
 📌 20-115: Andolsun ki öncesinde Adem’le ahitleşmiştik de unuttu. Biz onda bir kararlılık bulmadık.  
@@ -71,39 +68,44 @@ Onların çoğunu şükredici bulmayacaksın.”
 📌 20-123: (Allah): “Bir kısmınız bir kısmınıza düşman olarak hepiniz oradan inin! Benim tarafımdan size bir hidayet geldiğinde kim hidayetime uyarsa artık o ne sapıtır ne de bedbaht olur” dedi.  
 📌 20-124: Kim öğüdümden yüz çevirirse muhakkak ki onun sıkıntılı bir geçim vardır. Kıyamet Günü onu kör olarak haşrederiz.  
 📌 20-125: “Rabbim, gören biriyken beni niçin kör olarak haşrettin!” der.  
-📌 20-126: (Allah): “İşte böyle! Ayetlerimiz sana geldiğinde onları unutmuştun, bugün de sen işte böyle unutulursun!” der.  
+📌 20-126: (Allah): “İşte böyle! Ayetlerimiz sana geldiğinde onları unutmuştun(nesiy), bugün de sen işte böyle unutulursun!” der.  
+👉 Nesiy: ihmal etmek, terk etmek.
 
-
-🔎 Rabbimiz de bizleri öldürüp(mevt) o Cennet'ten çıkardı.  
-🔎 Daha alçak/kötü/zor olan bu kainata imtihan için gönderdi.  
-🔎 İkinci ve son şansımız. Kıyamete kadar çok boyutlu biir sınavdayız.  
 📌 7-23: (Onlar): “Rabbimiz, biz kendimize zulmettik. Eğer bizi bağışlamaz ve bize rahmet etmezsen, muhakkak ki hüsrana uğrayanlardan oluruz” dediler.  
 📌 7-24: (Allah onlara): “Birbirinize düşman olarak inin! Sizin için belli bir süreye kadar yeryüzünde kalma ve geçinme vardır” dedi.  
 📌 7-25: (Ve): “Orada yaşayacak, orada ölecek ve oradan çıkarılacaksınız” dedi.  
 📌 15-39: (İblis): “Rabbim, beni saptırman sebebiyle yeryüzünde onlar için mutlaka süslemeler yapacağım ve hepsini saptıracağım” dedi:  
 📌 15-40: “Onlardan sana samimi olan kulların müstesna.”  
-📌 2-38: Ve: “Hepiniz inin oradan! Size tarafımdan bir hidayet geldiğinde kim hidayetime uyarsa onlar için korku yoktur ve onlar üzülmeyeceklerdir” dedik.  
-
+📌 2-38: Ve: “Hepiniz inin oradan! Size tarafımdan bir hidayet(huda) geldiğinde kim hidayetime uyarsa onlar için korku yoktur ve onlar üzülmeyeceklerdir” dedik.  
+👉 Rabbimiz de bizleri öldürüp(mevt) o cennetten çıkardı.  
+👉 Daha alçak/kötü/zor olan bu kainata imtihan için gönderdi.  
+👉 İkinci ve son şansımız. Kıyamete kadar çok boyutlu biir sınavdayız.  
 
 📌 17-62: “Şu benim üzerime daha kerim kıldığına bak! Eğer beni Kıyamet Günü’ne kadar ertelersen muhakkak ki az bir kısmı dışında onun soyuna hükmedeceğim!” dedi.  
 📌 17-63: (Allah): “Git! Artık onlardan kim sana uyarsa cezanız cehennemdir. Tastamam bir ceza...” dedi:  
 📌 17-64: “Onlardan gücünün yettiğini sesinle kışkırt, atlarınla ve adamlarınla üzerlerine yaygarayı kopar. Onlara mallarda ve çocuklarda ortak ol, onlara vaadlerde bulun.” Şeytan, aldatmadan başka bir şeyi vadetmez.  
 
+
 📌 7-27: Ey Ademoğulları! Şeytan anne ve babalarınızı, onların örtülerini kaldırarak kötülük (potansiyellerini) ortaya çıkardığı gibi sizleri de fitneye düşürmesin. Muhakkak ki o ve onun topluluğu, sizin onları göremeyeceğiniz yerden sizi görürler. Muhakkak ki şeytanları iman etmeyenlerin dostları kıldık.  
-👉 ebeveykum: Anne babamıza gider, atalarımız Adem ve Havva'ya değil.
+👉 ebeveykum: Anne babamıza gider, atalarımız Adem ve Havva'ya değil.  
 👉 İlk cennetteki üst bedenimize referans olabilir.
 
-📌 44-56: Orada ilk ölümden başka ölüm tatmazlar. Onları cehennem azabından korur.
+📌 44-56: Orada ilk ölümden başka ölüm tatmazlar. Onları cehennem azabından korur.  
 
-🔎 Sınavı kaybedenler ikinci kez ölecekler.  
 📌 2-28: Nasıl olur da Allah’ı tanımazdan gelirsiniz? Ölüler idiniz size hayat verdi, sonra sizi öldürecek, sonra size hayat verecek ve sonra da O’na döndürüleceksiniz.  
 📌 39-42: Allah, nefisleri ölümleri sırasında vefat ettirir. Ölmeyecek olanları da uykularında (sanki ölü gibi vefat ettirir). Böylece hakkında ölüm hükmü verdiklerini tutar, sonrakileri de belli bir süreye kadar gönderir. Muhakkak ki bunda, düşünen bir toplum için deliller vardır.  
-👉 Vefat: Yerine getirmek. Kusursuz bir kayıt işlemi.
+👉 Sınavı kaybedenler ikinci kez ölecekler.  
+
 
 📌 6-60: Geceleyin sizi vefat ettiren O’dur. Gündüzün ne işlediğinizi bilir ve belirlenmiş eceliniz gerçekleşsin diye sizi onda diriltir. Sonra dönüşünüz O’nadır. Sonra yapmış olduklarınızı size haber verecek.  
 📌 6-61: O, kulları üzerinde egemendir. Size koruyucular gönderir. Nihayet birinize ölüm geldiğinde resullerimiz onu vefat ettirir. Onlar kusur etmezler.
 
 📌 16-28: Kendilerine zulmedenler vefat ettirilirken teslim olmuş bir şekilde: “Biz kötülük adına bir şey yapmadık ki!” derler. Hayır! Allah yaptıklarınızı bilendir.  
+👉 
+📌 6-21: Allah’a karşı yalan yere iftira atan veya O’nun ayetlerini yalanlayandan daha zalim kimdir? Muhakkak ki zalimler kurtuluşa eremezler.  
+📌 6-22: Hepsini toplayacağımız o gün, ortak koşanlara: “Zanna uyarak ortak saydıklarınız nerede?” diyeceğiz.  
+📌 6-23: Sonra onların: “Vallahi Rabbimiz, biz müşriklerden olmadık” demekten başka bir savunması olmayacak.  
+
 
 📌 6-93: Allah’a yalan yere iftira edenden veya kendisine bir şey vahyolunmadan “Bana vahyolundu!” diyenden ve “Ben de Allah’ın indirdiğinin benzerini indireceğim!” diyenden daha zalim kim vardır? Ölüm(mevt) sancıları içinde, meleklerin ellerini uzatıp kendilerine: “Allah hakkında gerçek olmayan şeyler söylediğiniz ve O’nun ayetlerine karşı büyüklendiğiniz için çıkarın nefislerinizi, bugün alçaltıcı bir azap göreceksiniz” dediklerinde zalimlerin hallerini bir görsen!
 
