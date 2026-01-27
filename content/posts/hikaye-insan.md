@@ -152,7 +152,7 @@ tags = ["Selam Yurdu", "İlk Cennet", "Cennet", "Cehennem", "İnsan", "Adem", "�
 👉 Cennet nimetleri dünyadakilere benzemiyor.  
 👉 Selam Yurdundaki muhteşem nimetlerinin en üstün formu..
 
-📌 37-40: Allah’ın samimi kulları müstesna.  
+📌 37-40: Allah’ın halis kulları müstesna.  
 📌 37-58: “Nasıl, biz ölecekler değil miymişiz?  
 📌 37-59: İlk ölümümüzden başka azaba da uğratılmayacakmışız.”  
 📌 37-60: İşte muhakkak ki bu büyük bir başarıdır.  
