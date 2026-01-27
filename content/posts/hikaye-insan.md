@@ -2,10 +2,10 @@
 title = 'Hikaye: İnsan'
 date = 2026-01-27T19:19:19+19:19
 draft = false
-tags = ["Selam Yurdu", "İlk Cennet", "İnsan", "Adem", "İblis", "Şeytan"]
+tags = ["Selam Yurdu", "İlk Cennet", "Cennet", "Cehennem", "İnsan", "Adem", "İblis", "Şeytan"]
 +++
 
-✅ İlk Cennet/Bahçe  
+✅ İlk Cennet/Bahçede yaşam  
 ✅ Aldanma ve İlk Ölüm  
 ⌛ İkinci ve Son İmtihan  
 ⚠️ İkinci Sancılı Ölüm veya Selam Yurdu  
@@ -23,13 +23,13 @@ tags = ["Selam Yurdu", "İlk Cennet", "İnsan", "Adem", "İblis", "Şeytan"]
 👉 Nefsimiz: Önceden yaratılan kendi öz bilincimiz.  
 👉 Bir bedene yüklenerek biçimleniyoruz.  
 👉 Fücur: Duygusal Beyin. Siyah/Beyaz. 5 yaşına kadar baskın olan, hayvanlarda da bulunan dürtülerimiz.  
-👉 Takva: Entelektüel Beyin. Sonsuz olasılıklar. 5 yaşından sonra gelişen sorgu, irade, erdem vb. yeteneklerimiz.  
+👉 Takva: Entelektüel Beyin. Sonsuz olasılıklar. 5 yaşından sonra gelişen sorgu, irade, erdem vb. zihinsel yeteneklerimiz.  
 
 📌 15-29: “Onu biçimlendirip ona ruhumdan üflediğimde onu hürmetle kabullenin"  
 👉 Sur: Biçimlendirme/Suretlendirme.  
 👉 Bilincimizin bedenlenmesi de hayata dönüşmüyor.  
 👉 Ancak Allah'ın ruhundan üflemesi ile hayat başlıyor.  
-👉 Mevt ise Allah'ın ruhunun çekmesiyle başlayan acı süreç ve gerçek ölüm.  
+👉 Mevt ise Allah'ın ruhunu çekmesiyle başlayan acı süreç ve gerçek ölüm.  
 👉 Vefat ise bedensel hayatın kayıt altına alınması.  
 👉 Sadece vefat ederek; bilincimiz, Ruh ile bu birinci gök bedenimizden ayrılabilir. Başka gökte bedenlenip hayatımıza devam edebiliriz.
 
@@ -101,7 +101,7 @@ tags = ["Selam Yurdu", "İlk Cennet", "İnsan", "Adem", "İblis", "Şeytan"]
 📌 6-61: O, kulları üzerinde egemendir. Size koruyucular gönderir. Nihayet birinize ölüm geldiğinde resullerimiz onu vefat ettirir. Onlar kusur etmezler.
 
 📌 16-28: Kendilerine zulmedenler vefat ettirilirken teslim olmuş bir şekilde: “Biz kötülük adına bir şey yapmadık ki!” derler. Hayır! Allah yaptıklarınızı bilendir.  
-👉 
+👉 Kazandım derken kaybetmek.. ❗ Aman Dikkat ❗  
 📌 6-21: Allah’a karşı yalan yere iftira atan veya O’nun ayetlerini yalanlayandan daha zalim kimdir? Muhakkak ki zalimler kurtuluşa eremezler.  
 📌 6-22: Hepsini toplayacağımız o gün, ortak koşanlara: “Zanna uyarak ortak saydıklarınız nerede?” diyeceğiz.  
 📌 6-23: Sonra onların: “Vallahi Rabbimiz, biz müşriklerden olmadık” demekten başka bir savunması olmayacak.  
@@ -109,18 +109,25 @@ tags = ["Selam Yurdu", "İlk Cennet", "İnsan", "Adem", "İblis", "Şeytan"]
 
 📌 6-93: Allah’a yalan yere iftira edenden veya kendisine bir şey vahyolunmadan “Bana vahyolundu!” diyenden ve “Ben de Allah’ın indirdiğinin benzerini indireceğim!” diyenden daha zalim kim vardır? Ölüm(mevt) sancıları içinde, meleklerin ellerini uzatıp kendilerine: “Allah hakkında gerçek olmayan şeyler söylediğiniz ve O’nun ayetlerine karşı büyüklendiğiniz için çıkarın nefislerinizi, bugün alçaltıcı bir azap göreceksiniz” dediklerinde zalimlerin hallerini bir görsen!
 
-🔎 İlk cennetten çıkarılışta ölümü tattık.  
 📌 3-185: Her nefis ölümü tadıcıdır. Kıyamet Günü ecirleriniz size tastamam verilir. (O vakit) kim ateşten uzaklaştırılır ve cennete girdirilirse artık kurtulmuştur. Dünya hayatı aldatıcı bir zevkten başka bir şey değildir.  
+👉 İlk cennetten çıkarılışta ölümü tattık.  
 
-📌 8-24: Ey iman edenler! Size hayat verecek şeylere çağırdığı zaman Allah’a ve resulüne icabet edin. Ve bilin ki Allah, kişi ile kalbi arasına girer. Muhakkak ki O’na (götürülüp) toplanacaksınız. 
+📌 8-24: Ey iman edenler! Size hayat verecek şeylere çağırdığı zaman Allah’a ve resulüne icabet edin. Ve bilin ki Allah, kişi ile kalbi arasına girer. Muhakkak ki O’na (götürülüp) toplanacaksınız.  
+👉 Allah'a / Resul'e / Kuran'a uyanlar ölmeyecek(mevt). Vefat ettirilip kıyamete kadar rızıklandırılırlar.
 
-📌 10-25: Allah Selam/Esenlik Yurduna çağırır, istediğini ve dileyeni doğru yola iletir.  
+📌 10-25: Allah Selam/Esenlik Yurduna çağırır, istediğini ve dileyeni doğru yola iletir(sıratin mustekim).  
 📌 10-26: İyilik yapanlara daha iyisi ve daha fazlası vardır. Onların yüzlerini ne bir karartı bürür ne de zillet. İşte onlar cennet halkıdır. Orada kalıcıdırlar.  
+👉 Selam Yurdunda muhteşem nimetler seçkin kulları bekliyor.  
+👉 Ahiretteki son cennette ise çok daha fazlası var.
 
 📌 6-127: Rablerinin katında onlar için bir barış yurdu vardır. O, yapmakta olduklarından dolayı onların velisidir.  
 
 📌 16-30: Ve bilinçli olanlara: “Rabbiniz size ne indirdi?” denildiğinde: “Hayr!” dediler. Bu dünyada iyilik yapanlara güzellik vardır. Ahiret yurdu ise daha hayırlıdır. Bilinçlilerin yurdu ne nimettir!  
+👉 Kuran'ı hayra çeviren bilinçliler, Selam Yurdunda ağırlanırlar.
+
 📌 16-32: Melekler vefat ettirdikleri temiz kimselere: “Selam/Esenlik size, yapmış olduklarınıza (karşılık) girin cennete!” derler.  
+👉 Nefsinin arındıranlar, gözlerini bu dünyaya yumar yummaz Cennet'le müjdelenirler.  
+👉 Gözlerini Cennetin lobisi Selam Yurdunda açarlar.
 
 📌 22-58: Allah yolunda hicret edenler, savaşanlar veya ölenleri Allah güzel bir rızıkla rızıklandıracaktır. Muhakkak ki Allah, rızıklandıranların en hayırlısıdır.  
 📌 22-59: Onları razı olacakları bir yere koyacaktır. Muhakkak ki Allah bilendir, yumuşak muamele edendir.  
@@ -138,23 +145,21 @@ tags = ["Selam Yurdu", "İlk Cennet", "İnsan", "Adem", "İblis", "Şeytan"]
 📌 3-169: Allah yolunda öldürülenleri sakın ölü zannetmeyin. Bilakis! Onlar Rableri katında diri olup rızıklandırılmaktadırlar.  
 📌 3-170: Allah’ın onlara kendi lütfundan verdiğiyle mutludurlar ve onlara (henüz) gerilerinden (ulaşamamış) olanları, kendileri için bir korku ve üzüntü olmadığı hakkında müjdelemek (isterler).  
 📌 3-171: (Onlar) Allah’tan (gelecek) bir nimeti, bir lütfu ve Allah’ın muhakkak ki müminlerin ödülünü boşa çıkarmayacağını müjdelemektedirler.  
+
 📌 4-158: Bilakis! Allah onu(İsa) kendisine yükseltti. Allah azizdir, hikmet ve hüküm sahibidir.
 
-📌 2-25: İman eden ve salih işler yapanları kendileri için hazırlanmış, altlarından ırmaklar akan cennetlerle müjdele. Oranın ürünlerinden her rızıklandıklarında: “Bu rızıklandıklarımız daha önceden verilenlere benziyor” derler. Onlar için orada temiz birliktelikler14 vardır ve orada kalıcıdırlar.  
-
+📌 2-25: İman eden ve salih işler yapanları kendileri için hazırlanmış, altlarından ırmaklar akan cennetlerle müjdele. Oranın ürünlerinden her rızıklandıklarında: “Bu rızıklandıklarımız daha önceden verilenlere benziyor” derler. Onlar için orada temiz birliktelikler vardır ve orada kalıcıdırlar.  
+👉 Cennet nimetleri dünyadakilere benzemiyor.  
+👉 Selam Yurdundaki muhteşem nimetlerinin en üstün formu..
 
 📌 37-40: Allah’ın samimi kulları müstesna.  
 📌 37-58: “Nasıl, biz ölecekler değil miymişiz?  
 📌 37-59: İlk ölümümüzden başka azaba da uğratılmayacakmışız.”  
 📌 37-60: İşte muhakkak ki bu büyük bir başarıdır.  
 📌 37-61: Çalışanlar da bunun benzeri için çalışmalıdır.  
-
-
-
-
-
+👉 Halis: Saf, Katışıksız.
 
 💎 Huda / Yol gösteren / Kuran: 19 x 1 (ebced)  
-💎 Sıratin mustekim / Doğru yol: 19 x 50 (ebced)
-⚠️ Delalet / Yoldan Sapan: 43 X 20 (ebced)
-👉 4 + 3 = 7 kapılı Cehennem(15:44)
+💎 Sıratin mustekim / Doğru yol: 19 x 50 (ebced)  
+⚠️ Delalet / Yoldan Sapan: 43 X 20 (ebced)  
+👉 4 + 3 = 7 kapılı Cehennem (15:44)
