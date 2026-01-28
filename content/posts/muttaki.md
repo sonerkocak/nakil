@@ -1,5 +1,5 @@
 +++
-title = 'Muttaki'
+title = 'Muttaki: Bilinçli'
 date = 2026-01-28T19:19:19+19:19
 draft = false
 tags = ["Muttaki", "Duyarlı", "Bilinçli", "Korunan"]
