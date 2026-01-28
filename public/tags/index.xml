@@ -9,24 +9,59 @@
     <lastBuildDate>Wed, 28 Jan 2026 19:19:19 +1919</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hanif</title>
-      <link>http://localhost:1313/tags/hanif/</link>
+      <title>Akmak</title>
+      <link>http://localhost:1313/tags/akmak/</link>
       <pubDate>Wed, 28 Jan 2026 19:19:19 +1919</pubDate>
-      <guid>http://localhost:1313/tags/hanif/</guid>
+      <guid>http://localhost:1313/tags/akmak/</guid>
       <description></description>
     </item>
     <item>
-      <title>İbrahim</title>
-      <link>http://localhost:1313/tags/ibrahim/</link>
+      <title>Bilinçli</title>
+      <link>http://localhost:1313/tags/bilin%C3%A7li/</link>
       <pubDate>Wed, 28 Jan 2026 19:19:19 +1919</pubDate>
-      <guid>http://localhost:1313/tags/ibrahim/</guid>
+      <guid>http://localhost:1313/tags/bilin%C3%A7li/</guid>
       <description></description>
     </item>
     <item>
-      <title>Millet</title>
-      <link>http://localhost:1313/tags/millet/</link>
+      <title>Duyarlı</title>
+      <link>http://localhost:1313/tags/duyarl%C4%B1/</link>
       <pubDate>Wed, 28 Jan 2026 19:19:19 +1919</pubDate>
-      <guid>http://localhost:1313/tags/millet/</guid>
+      <guid>http://localhost:1313/tags/duyarl%C4%B1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Korunan</title>
+      <link>http://localhost:1313/tags/korunan/</link>
+      <pubDate>Wed, 28 Jan 2026 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/tags/korunan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Muttaki</title>
+      <link>http://localhost:1313/tags/muttaki/</link>
+      <pubDate>Wed, 28 Jan 2026 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/tags/muttaki/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tesbih</title>
+      <link>http://localhost:1313/tags/tesbih/</link>
+      <pubDate>Wed, 28 Jan 2026 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/tags/tesbih/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yol</title>
+      <link>http://localhost:1313/tags/yol/</link>
+      <pubDate>Wed, 28 Jan 2026 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/tags/yol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yüzmek</title>
+      <link>http://localhost:1313/tags/y%C3%BCzmek/</link>
+      <pubDate>Wed, 28 Jan 2026 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/tags/y%C3%BCzmek/</guid>
       <description></description>
     </item>
     <item>
@@ -83,6 +118,27 @@
       <link>http://localhost:1313/tags/%C5%9Feytan/</link>
       <pubDate>Tue, 27 Jan 2026 19:19:19 +1919</pubDate>
       <guid>http://localhost:1313/tags/%C5%9Feytan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hanif</title>
+      <link>http://localhost:1313/tags/hanif/</link>
+      <pubDate>Mon, 26 Jan 2026 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/tags/hanif/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>İbrahim</title>
+      <link>http://localhost:1313/tags/ibrahim/</link>
+      <pubDate>Mon, 26 Jan 2026 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/tags/ibrahim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Millet</title>
+      <link>http://localhost:1313/tags/millet/</link>
+      <pubDate>Mon, 26 Jan 2026 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/tags/millet/</guid>
       <description></description>
     </item>
     <item>

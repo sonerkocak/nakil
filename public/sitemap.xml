@@ -5,13 +5,19 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-01-28T19:19:19+19:19</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hanif/</loc>
+    <loc>http://localhost:1313/tags/akmak/</loc>
     <lastmod>2026-01-28T19:19:19+19:19</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ibrahim/</loc>
+    <loc>http://localhost:1313/tags/bilin%C3%A7li/</loc>
     <lastmod>2026-01-28T19:19:19+19:19</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/millet/</loc>
+    <loc>http://localhost:1313/tags/duyarl%C4%B1/</loc>
+    <lastmod>2026-01-28T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/korunan/</loc>
+    <lastmod>2026-01-28T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/muttaki/</loc>
     <lastmod>2026-01-28T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/muttaki/</loc>
@@ -21,6 +27,18 @@
     <lastmod>2026-01-28T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-28T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tesbih/</loc>
+    <lastmod>2026-01-28T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/tesbih/</loc>
+    <lastmod>2026-01-28T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/yol/</loc>
+    <lastmod>2026-01-28T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/y%C3%BCzmek/</loc>
     <lastmod>2026-01-28T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/adem/</loc>
@@ -50,7 +68,16 @@
     <loc>http://localhost:1313/tags/%C5%9Feytan/</loc>
     <lastmod>2026-01-27T19:19:19+19:19</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/hanif/</loc>
+    <lastmod>2026-01-26T19:19:19+19:19</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/hanif/</loc>
+    <lastmod>2026-01-26T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ibrahim/</loc>
+    <lastmod>2026-01-26T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/millet/</loc>
     <lastmod>2026-01-26T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/anahtar-harfler/</loc>
