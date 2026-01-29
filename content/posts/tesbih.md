@@ -1,6 +1,6 @@
 +++
 title = 'Tesbih: Yüzmek'
-date = 2026-01-28T19:19:19+19:19
+date = 2026-01-29T19:19:19+19:19
 draft = false
 tags = ["Tesbih", "Yüzmek", "Akmak", "Yol"]
 +++
