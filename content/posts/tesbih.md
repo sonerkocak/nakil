@@ -26,7 +26,7 @@ Onlar ise “Subhansın! Senin bize öğrettiklerinden başka bir şey bilemeyiz
 Sonra onu aşağıların aşağısına çevirdik.  
 ✅ En güzel biçimde yaratıldığını farket.  
 ✅ Güzel bir kıyam ile ayağa kalk.  
-✅ Kainatta ve içinde Rabbinin tecellilerini keşfet.  
+✅ Kainatta ve nefsinde Rabbinin tecellilerini keşfet.  
 ✅ En yüce övgünün(hamd) Rabbine ait olduğuna tanıklık et.  
 ✅ Boyun eğdirdikleriyle; yetimlere, çocuklara, kadınlara, erkeklere, hayvanlara ve çevreye hizmet et.
 
@@ -35,7 +35,15 @@ Zulmeden her nefis, yeryüzünde ne varsa mutlaka onu fidye olarak verirdi. Azab
 ⚠️ Yapmayan kendine zulmeder.  
 💎 Ancak kendini bu kıvama getirenler Allah'a yaklaşabilir.  
 💎 Cennet'te bu süreci sonsuza kadar devam ettirir.  
-❗ Diğerleri mahrumiyet ve pişmanlık ateşinde kavrulup yok olur.
+❗ Bozulmuş fıtratlar mahrumiyet ve pişmanlık ateşinde kavrulup yok olur.
+
+📌 [43-12](https://acikkuran.com/43/12):
+O, bütün çiftleri yarattı, sizin için gemilerden(gidip gelen araçlar) ve hayvanlardan bineceğiniz (şeyleri) var etti.  
+📌 [43-13](https://acikkuran.com/43/13):
+O(nların) sırtına kurulmanız ve sonra da kurulduğunuzda Rabbinizin nimetini hatırlamanız ve: “Bu(nları) bize boyun eğdiren Subhandır! Yoksa biz bu(nları kendimize) yanaştıramazdık (bile)” demeniz için  
+📌 [43-14](https://acikkuran.com/43/14):
+ve “Muhakkak ki biz Rabbimize döndürüleceğiz” (demeniz için).  
+⚠️ Ancak Allah'ı hatırlayıp düşündüğümüzde Salla'maya başlarız; dünya ve ahiret güzelleşir.
 
 
 📌 [52-48](https://acikkuran.com/52/48):
@@ -44,8 +52,8 @@ Rabbinin hükmüne sabret. Muhakkak ki sen gözlerimizin önündesin. Kalktığ�
 
 📌 [24-41](https://acikkuran.com/24/41):
 Göklerde ve yerde bulunan(lar) ve dizi halinde uçan kuşların Allah’ı tesbih ettiğini görmedin mi? Hepsi salâtini ve tesbihini bilir. Allah onların yaptıklarını bilendir.  
-👉 Salâti: Doğal yaşama olan katkısı.
-
+👉 Salâti: Doğal yaşama olan katkısı.  
+⚠️ Kainatta sadece biz insanlar Salla'mıyoruz (şimdilik).
 
 📌 [38-17](https://acikkuran.com/38/17):
 Sen onların söylediklerine sabret ve güç sahibi olan kulumuz Davut’u hatırla. O, (Allah’a) yönelen biriydi.  
@@ -90,6 +98,8 @@ O halde sen onların dediklerine sabret. Güneşin doğuşundan önce, batışı
 📌 [17-44](https://acikkuran.com/17/44):
 Yedi gök, yer ve bunların içindekiler O’nu tesbih ederler. O’nu hamd ile tesbih etmeyen hiçbir şey yoktur. Fakat siz onların tesbihlerini kavrayamazsınız. O, yumuşak davranandır, bağışlayandır.
 
+📌 [36-40](https://acikkuran.com/36/40):
+Ne güneşin aya yetişmesi, ne de gecenin gündüzü geçmesi mümkündür. Her biri bir yörüngede yüzmektedir.
 
 📌 [59-22](https://acikkuran.com/59/22):
 O, kendisinden başka ilah olmayan Allah'tır. Görünmeyeni ve görüneni bilendir. O, Rahmân'dır, Rahîm'dir.  
@@ -97,3 +107,51 @@ O, kendisinden başka ilah olmayan Allah'tır. Görünmeyeni ve görüneni bilen
 O Allah ki: O'ndan başka ilah yoktur; Melik'tir, Kuddus'tür, Selam'dır, Mü'min'dir, Muheymin'dir, Aziz'dir, Cebbar'dır, Mutekebbir'dir. Allah, onların ortak koştukları şeylerden münezzehtir.  
 📌 [59-24](https://acikkuran.com/59/24):
 O Allah ki: Halik'dır, Bari'dir, Musavvir'dir. En güzel isimler O'na aittir. Göklerde ve yeryüzünde olanlar, O'nu tesbih ederler. O, Azîz'dir, Hakîm'dir.  
+
+
+📌 [25-56](https://acikkuran.com/25/56):
+Seni müjdeleyici ve uyarıcı olmandan başka bir şey için göndermedik.  
+📌 [25-57](https://acikkuran.com/25/57):
+De ki: “Ben sizden, Rabbinin yolunu tutan kişiler olmanız dışında bir ücret istemiyorum.”  
+📌 [25-58](https://acikkuran.com/25/58):
+Ölmeyip diri kalana tevekkül et ve O’nu hamd ile tesbih et. Kullarının günahlarından O’nun haberdar olması yeter.
+
+📌 [56-71](https://acikkuran.com/56/71):
+Yakmakta olduğunuz ateşi gördünüz mü?  
+📌 [56-72](https://acikkuran.com/56/72):
+Onun ağacını sizler mi inşa ettiniz yoksa inşa edenler biz miyiz?  
+📌 [56-73](https://acikkuran.com/56/73):
+Onu bir ibret ve kullananlar için bir fayda kıldık.  
+📌 [56-74](https://acikkuran.com/56/74):
+O halde büyük Rabbini ismiyle tesbih et.
+
+📌 [68-26](https://acikkuran.com/68/26):
+Fakat o (bahçeyi) görünce: “Herhalde (yoldan) sapmış olmalıyız” dediler.  
+📌 [68-28](https://acikkuran.com/68/28):
+En dengeli olanları: “Ben size demedim mi? (Allah’ı) tesbih etmeniz gerekmez miydi?” dedi.  
+📌 [68-29](https://acikkuran.com/68/29):
+(Onlar): Sübhansın “Rabbimiz! Muhakkak ki biz zalimlermişiz” dediler.  
+👉 Bahçenin sadece geçimliğine odaklanmışlar.  
+👉 Akıl ve vicdanlarıyla Subhan'a tanıklık edebilirlerdi.  
+👉 Böylece yoksulları da Salla'rlardı(Onlara eğilirlerdi).
+
+
+📌 [3/190](https://acikkuran.com/3/190):
+Muhakkak ki göklerin ve yerin yaratılışında ve geceyle gündüzün art arda gelişinde akıl sahipleri için deliller vardır.  
+📌 [3/191](https://acikkuran.com/3/191):
+Onlar ayaktayken, otururken ve yanları üzere (yatarken) Allah’ı anarlar ve göklerin ve yerin yaratılışı hakkında düşünürler: “Rabbimiz, sen bunu boş yere yaratmadın. Sen Subhansın, bizi ateş azabından koru.  
+👉 Subhan ➡️ Tecellileriyle yaratır.  
+🔎 Zikir ve Fikir ile tesbih etmeliyiz.
+
+
+📌 [9-31](https://acikkuran.com/9/31):
+Hahamlarını(din bilginlerini) ve ruhbanlarını(din adamlarını), Allah’ın dışında rabler edindiler ve Meryemoğlu İsa Mesih’i de... (Hâlbuki) tek bir ilaha hizmet hizmet etmekle emrolunmuşlardı. O’ndan başka ilah yoktur. O, onların ortak koşmalarından münezzehtir(O Subhandır. Amma şirk koşmalar).  
+👉 Subhan ➡️ Tecellileriyle yaratır/yönetir.  
+⚠️ Neden dolayı bu ortak koşmalar? Dayanağı nedir?
+
+
+📌 [10/9](https://acikkuran.com/10/9):
+İman eden ve salih işler yapanları ise, Rableri, imanlarından ötürü altlarından ırmaklar akan, nimetlerle dolu cennetlere yöneltir.  
+📌 [10/10](https://acikkuran.com/10/10):
+Oradaki duaları: “Allah’ım, sen Subhansın!”, oradaki selamlaşmaları: “Selam” ve dualarının sonu da: “Alemlerin Rabbi Allah’a hamd olsun!”dur.  
+💎 Nimetler içinde yüzerken; Hamd ile Tesbih... Sonsuza dek...
