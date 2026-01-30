@@ -6,13 +6,62 @@
     <description>Recent content in Tags on  </description>
     <generator>Hugo -- 0.153.1</generator>
     <language>tr-tr</language>
-    <lastBuildDate>Wed, 28 Jan 2026 19:19:19 +1919</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 19:19:19 +1919</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kuran</title>
+      <link>http://localhost:1313/tags/kuran/</link>
+      <pubDate>Fri, 30 Jan 2026 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/tags/kuran/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Müşrik</title>
+      <link>http://localhost:1313/tags/m%C3%BC%C5%9Frik/</link>
+      <pubDate>Fri, 30 Jan 2026 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/tags/m%C3%BC%C5%9Frik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ortak</title>
+      <link>http://localhost:1313/tags/ortak/</link>
+      <pubDate>Fri, 30 Jan 2026 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/tags/ortak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Şirk</title>
+      <link>http://localhost:1313/tags/%C5%9Firk/</link>
+      <pubDate>Fri, 30 Jan 2026 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/tags/%C5%9Firk/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Akmak</title>
       <link>http://localhost:1313/tags/akmak/</link>
-      <pubDate>Wed, 28 Jan 2026 19:19:19 +1919</pubDate>
+      <pubDate>Thu, 29 Jan 2026 19:19:19 +1919</pubDate>
       <guid>http://localhost:1313/tags/akmak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tesbih</title>
+      <link>http://localhost:1313/tags/tesbih/</link>
+      <pubDate>Thu, 29 Jan 2026 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/tags/tesbih/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yol</title>
+      <link>http://localhost:1313/tags/yol/</link>
+      <pubDate>Thu, 29 Jan 2026 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/tags/yol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yüzmek</title>
+      <link>http://localhost:1313/tags/y%C3%BCzmek/</link>
+      <pubDate>Thu, 29 Jan 2026 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/tags/y%C3%BCzmek/</guid>
       <description></description>
     </item>
     <item>
@@ -41,27 +90,6 @@
       <link>http://localhost:1313/tags/muttaki/</link>
       <pubDate>Wed, 28 Jan 2026 19:19:19 +1919</pubDate>
       <guid>http://localhost:1313/tags/muttaki/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tesbih</title>
-      <link>http://localhost:1313/tags/tesbih/</link>
-      <pubDate>Wed, 28 Jan 2026 19:19:19 +1919</pubDate>
-      <guid>http://localhost:1313/tags/tesbih/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Yol</title>
-      <link>http://localhost:1313/tags/yol/</link>
-      <pubDate>Wed, 28 Jan 2026 19:19:19 +1919</pubDate>
-      <guid>http://localhost:1313/tags/yol/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Yüzmek</title>
-      <link>http://localhost:1313/tags/y%C3%BCzmek/</link>
-      <pubDate>Wed, 28 Jan 2026 19:19:19 +1919</pubDate>
-      <guid>http://localhost:1313/tags/y%C3%BCzmek/</guid>
       <description></description>
     </item>
     <item>
@@ -153,13 +181,6 @@
       <link>http://localhost:1313/tags/k%C4%B1yamet/</link>
       <pubDate>Sat, 24 Jan 2026 19:19:19 +1919</pubDate>
       <guid>http://localhost:1313/tags/k%C4%B1yamet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kuran</title>
-      <link>http://localhost:1313/tags/kuran/</link>
-      <pubDate>Sat, 24 Jan 2026 19:19:19 +1919</pubDate>
-      <guid>http://localhost:1313/tags/kuran/</guid>
       <description></description>
     </item>
     <item>
@@ -293,6 +314,13 @@
       <link>http://localhost:1313/tags/soru/</link>
       <pubDate>Tue, 23 Dec 2025 19:19:19 +1919</pubDate>
       <guid>http://localhost:1313/tags/soru/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ortak Koşan</title>
+      <link>http://localhost:1313/tags/ortak-ko%C5%9Fan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ortak-ko%C5%9Fan/</guid>
       <description></description>
     </item>
   </channel>
