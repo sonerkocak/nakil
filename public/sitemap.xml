@@ -3,7 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-31T19:19:19+19:19</lastmod>
+    <lastmod>2026-02-02T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hadis/</loc>
+    <lastmod>2026-02-02T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hikmet/</loc>
+    <lastmod>2026-02-02T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/kitap/</loc>
+    <lastmod>2026-02-02T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/kitap-hikmet/</loc>
+    <lastmod>2026-02-02T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/kuran/</loc>
+    <lastmod>2026-02-02T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-02-02T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-02T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ayetler/</loc>
+    <lastmod>2026-02-01T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gayb/</loc>
+    <lastmod>2026-02-01T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/gayb/</loc>
+    <lastmod>2026-02-01T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ger%C3%A7ek/</loc>
+    <lastmod>2026-02-01T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ufukta/</loc>
+    <lastmod>2026-02-01T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ak%C4%B1l/</loc>
     <lastmod>2026-01-31T19:19:19+19:19</lastmod>
@@ -17,20 +53,8 @@
     <loc>http://localhost:1313/tags/elbab/</loc>
     <lastmod>2026-01-31T19:19:19+19:19</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/gayb/</loc>
-    <lastmod>2026-01-31T19:19:19+19:19</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-01-31T19:19:19+19:19</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/rasyonel/</loc>
     <lastmod>2026-01-31T19:19:19+19:19</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-01-31T19:19:19+19:19</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/kuran/</loc>
-    <lastmod>2026-01-30T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/m%C3%BC%C5%9Frik/</loc>
     <lastmod>2026-01-30T19:19:19+19:19</lastmod>
@@ -138,9 +162,6 @@
     <lastmod>2026-01-07T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/19-nedir/</loc>
-    <lastmod>2026-01-07T19:19:19+19:19</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hadis/</loc>
     <lastmod>2026-01-07T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/kuran-sunnet-hadis/</loc>
