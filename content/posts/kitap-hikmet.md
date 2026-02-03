@@ -11,7 +11,7 @@ tags = ["Kitap", "Hikmet", "Kuran", "Hadis"]
 📌 [2-129](https://acikkuran.com/2/129):
 "Rabbimiz, aralarından (senin) ayetlerini onlara okuyacak, Kitap ve hikmeti öğretecek ve onları arındıracak bir resul gönder. Sen azizsin, hikmet ve hüküm sahibisin.”  
 👉 Kuran'ın isimleri: Kitap, Hikmet, Zikir, Furkan, Tenzîl, Nûr, Rûh.  
-👉 Kuran'ın sıfatları: Mübîn(apaçık), Hakîm(Hikmetli), Hüdâ(yol gösterici), Azîm(Büyük, üstün) Rahmet(İlâhî merhamet), Mübârek(Bereketli), İifâ(Gönüllere şifa), Mecîd(Yüce, şerefli), Kerîm(Değerli, onurlu).  
+👉 Kuran'ın sıfatları: Mübîn(apaçık), Hakîm(Hikmetli), Hüdâ(yol gösterici), Azîm(Büyük, üstün) Rahmet(İlâhî merhamet), Mübârek(Bereketli), Şifâ(Gönüllere şifa), Mecîd(Yüce, şerefli), Kerîm(Değerli, onurlu).  
 🔥 İblis'e sorsak kapağına ne yazalım diye? Hakim, Kerim?
 
 📌 [36-2](https://acikkuran.com/36/2):
@@ -35,8 +35,7 @@ Diri olanları uyarması ve kâfirler üzerine sözün hak olması için.
 
 📌 [2-231](https://acikkuran.com/2/231):
 Kadınları boşadığınızda, bekleme süresine ulaştıklarında ya onları sağduyuya uygun olarak tutun ya da sağduyuya uygun olarak bırakın ve sakın haklarını çiğneyerek onları tutmayın. Kim bunu yaparsa kendi nefsine zulmetmiş olur. Allah’ın ayetlerini alay konusu edinmeyin ve Allah’ın üzerinizdeki nimetini ve onunla size öğüt vermek için indirdiği Kitab'ı ve Hikmet'i anın. Allah hakkında bilinç sahibi olun ve bilin ki Allah her şeyi bilendir.  
-👉 "Size öğüt olarak indirdiği Kitab'ı ve Hikmeti"  
-🔑 Kitap: Eril. Hikmet: Dişil. İkisiyle ➡️ behime  
+🔑 Kitap: Eril. Hikmet: Dişil. İkisiyle ➡️ behime denmesi gerekirdi.  
 🔑 bihi: onunla ➡️ 3. tekil şahıs ❤️ Kitap ve Hikmet = Kuran  
 👉 maruf: Meşru, Güzellik, İyilik, Ortak akıl.  
 
