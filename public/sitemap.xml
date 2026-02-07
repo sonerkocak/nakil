@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-02T19:19:19+19:19</lastmod>
+    <lastmod>2026-02-07T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/iblis/</loc>
+    <lastmod>2026-02-07T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/kuran/</loc>
+    <lastmod>2026-02-07T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-02-07T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%C5%9Firk/</loc>
+    <lastmod>2026-02-07T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/soylenti/</loc>
+    <lastmod>2026-02-07T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/s%C3%B6ylenti/</loc>
+    <lastmod>2026-02-07T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-07T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/hadis/</loc>
     <lastmod>2026-02-02T19:19:19+19:19</lastmod>
@@ -15,15 +36,6 @@
     <lastmod>2026-02-02T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/kitap-hikmet/</loc>
-    <lastmod>2026-02-02T19:19:19+19:19</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/kuran/</loc>
-    <lastmod>2026-02-02T19:19:19+19:19</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-02-02T19:19:19+19:19</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-02-02T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ayetler/</loc>
@@ -60,9 +72,6 @@
     <lastmod>2026-01-30T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ortak/</loc>
-    <lastmod>2026-01-30T19:19:19+19:19</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%C5%9Firk/</loc>
     <lastmod>2026-01-30T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/%C5%9Firk/</loc>
@@ -108,9 +117,6 @@
     <lastmod>2026-01-27T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hikaye-insan/</loc>
-    <lastmod>2026-01-27T19:19:19+19:19</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/iblis/</loc>
     <lastmod>2026-01-27T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ilk-cennet/</loc>
