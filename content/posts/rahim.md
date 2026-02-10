@@ -98,13 +98,13 @@ Rahîm'in tecellilerini; Rabbimizi bilemediğimiz gibi; bilmemiz mümkün değil
 
 ✳️ Rahim geçen ayetleri nasıl doğru anlayabiliriz?
 
-Rahim sahibi kadınlara; annelerimize, kardeşlerimize, eşlerimize ve kızlarımıza..  
 📌 [4-1](https://acikkuran.com/4/1):
-.. ve takvalı olun Allah’a, O ki istersiniz O’nun (adıyla), ve rahimlere (de takvalı olun). Allah, üzerinizde gözetleyicidir.
+.. ve takvalı olun Allah’a, O ki istersiniz O’nun (adıyla), ve rahimlere (de takvalı olun). Allah, üzerinizde gözetleyicidir.  
+⚠️ Rahim sahibi kadınlara; annelerimize, kardeşlerimize, eşlerimize ve kızlarımıza..  
 
 
-Rahim sahibi kadınların; doğum hızını düşürmek, Kadın fıtratını bozarak toplumu çürütmek:  
 📌 [47-22](https://acikkuran.com/47/22):
-Demek, iş başına geldiğinizde yeryüzünde bozgunculuk yapacak ve rahimleri durduracaktınız/çürütecektiniz, öyle mi?
+Demek, iş başına geldiğinizde yeryüzünde bozgunculuk yapacak ve rahimleri durduracaktınız/çürütecektiniz, öyle mi?  
+⚠️ Rahim sahibi kadınların; doğum hızını düşürmek, Kadın fıtratını bozarak toplumu çürütmek:  
 
 
