@@ -3,12 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-09T19:19:19+19:19</lastmod>
+    <lastmod>2026-02-12T19:19:19+19:19</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ahiret/</loc>
-    <lastmod>2026-02-09T19:19:19+19:19</lastmod>
+    <loc>http://localhost:1313/tags/fecr/</loc>
+    <lastmod>2026-02-12T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/fecr/</loc>
+    <lastmod>2026-02-12T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/insan/</loc>
+    <lastmod>2026-02-12T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/m%C3%BCte%C5%9Fabih/</loc>
+    <lastmod>2026-02-12T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-02-12T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-12T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/zigot/</loc>
+    <lastmod>2026-02-12T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ahiret/</loc>
     <lastmod>2026-02-09T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/rahim/</loc>
@@ -18,9 +36,6 @@
     <lastmod>2026-02-09T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/rahman/</loc>
-    <lastmod>2026-02-09T19:19:19+19:19</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-02-09T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/yer/</loc>
@@ -135,9 +150,6 @@
     <lastmod>2026-01-27T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ilk-cennet/</loc>
-    <lastmod>2026-01-27T19:19:19+19:19</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/insan/</loc>
     <lastmod>2026-01-27T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/selam-yurdu/</loc>
