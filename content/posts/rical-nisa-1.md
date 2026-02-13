@@ -74,3 +74,11 @@ Kadınlarınızdan(Nisa) fuhuş yapanlara karşı içinizden dört şahit getiri
 (ve kale)Şehirdeki bazı kadınlar: “Azizin kadını hizmetçisinin nefsini murat ediyormuş. Sevgisi bağrına işlemiş. Şüphesiz onu büyük bir sapmışlıkta görüyoruz” dediler.  
 🔑 Nisa, kadınlar anlamında olsaydı, Dediler(kale) ifadesi eril değil dişil gelmeliydi.  
 
+⭐ 2 kelimeden ne çıkar?  
+Bağlamına göre kavramları oturtabildiğimizde; 5 yaşındaki çocuğun bile anlayıp yaşayabileceği sadelikte bir Kılavuz olduğuna şahitlik edeceğiz..  
+
+📌[20-114](https://acikkuran.com/20/114): "Rabbim, ilmimi arttır."  
+📌[20-51](https://acikkuran.com/20/51):
+(Firavun): “Peki önceki nesillerin hali ne olacak?” dedi.  
+📌[20-52](https://acikkuran.com/20/52):
+(Musa): “Onun bilgisi Rabbimin yanında olan bir kitaptadır. Rabbim yanlış yapmaz ve unutmaz” dedi.
