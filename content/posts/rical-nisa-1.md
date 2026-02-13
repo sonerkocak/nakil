@@ -16,9 +16,9 @@ Allah’ın nurunu ağızlarıyla söndürmek istiyorlar. Kâfirler hoşlanmasa 
 
 👉 Rabbim (haşa) gramer ve kelime seçimlerinde hatalar yapmış da; arkasını toparlıyor gibi davranmamız doğru değil. 
 
-🔑 Allah'ın işaret ettiği araçlarla, Kuran'dan emin olmalıyız. Ve demeliyiz ki; "İlmim bunu anlamaya yetmedi, ileride anlaşılır Allah'ın izniyle"..
+🔑 Allah'ın işaret ettiği araçlarla, Kuran'dan emin olmalıyız. Ve demeliyiz ki; "İlmim bunu anlamaya yetmedi, ileride anlaşılır Allah'ın izniyle"
 
-🔎 Nisa(çoğul). Racul(tekil) => Rical(çoğulu).
+🔎 Nisa(çoğul). Racul(tekil) ➡️ Rical(çoğul).
 
 📌[4-34](https://acikkuran.com/4/34):
 Rical, Nisa üzerine kavvamdırlar. ...  
@@ -27,7 +27,8 @@ Rical, Nisa üzerine kavvamdırlar. ...
 🔑 Roller üzerinden bir anlatım olabilir mi?
 
 📌[22-27](https://acikkuran.com/22/27):
-“Ve Hacc’ı insanlara duyur. Sana, yayan(Rical olarak) ve binekler üstünde bütün uzak yollardan gelsinler.
+“Ve Hacc’ı insanlara duyur. Sana, yayan(Rical olarak) ve binekler üstünde bütün uzak yollardan gelsinler.  
+👉 Rical olarak veya her cılız haliyle(ve ala kulli damirin)
 
 📌[2-239](https://acikkuran.com/2/239):
 Eğer korkarsanız (Rical olarak)yaya veya binek üzerinde(Rukbanen/yığın) bulunduğunuzda da güvende olduğunuz zamanda da bilmediğiniz şeyleri size öğrettiği şekilde Allah'ı anın.  
