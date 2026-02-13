@@ -26,6 +26,11 @@ Rical, Nisa üzerine kavvamdırlar. ...
 🔑 Ayet sebebini şöyle açıklıyor: Allah bir kısmını diğerinin üzerine üstün kılmıştır. Mallarından infak ederler.  
 🔑 Roller üzerinden bir anlatım olabilir mi?
 
+📌[2-282](https://acikkuran.com/2/282):
+Ricalden iki şahit tutun. Yoksa; bir Racul ve iki kadın olsun.  
+🔎 Nisa: çoğul(3 ve üzeri). vemraetāni: 2 kadın.  
+🔑 Şahitliğe elverişli bir durumu anlatıyor olabilir mi?
+
 📌[22-27](https://acikkuran.com/22/27):
 “Ve Hacc’ı insanlara duyur. Sana, yayan(Rical olarak) ve binekler üstünde bütün uzak yollardan gelsinler.  
 👉 Rical olarak veya her cılız haliyle(ve ala kulli damirin)
