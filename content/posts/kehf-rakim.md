@@ -2,7 +2,7 @@
 title = 'Mağara ve Rakam Yoldaşları'
 date = 2026-02-15T19:19:19+19:19
 draft = false
-tags = ["Mağara", "Kehf", "Raqim", "Rakam"]
+tags = ["Mağara", "Kehf", "Rakim", "Rakam"]
 +++
 
 📌[13-40](https://acikkuran.com/13/40):
@@ -30,7 +30,8 @@ Kalplerini de pekiştirmiştik. Kalkıp/dikelip: “Bizim Rabbimiz, göklerin ve
 🔑 İman etmiş bu gençler, mağaraya gitmeden önce müşrik sisteme diklenirler.
 
 📌[18-15](https://acikkuran.com/18/15):
-Bunlar bizim toplumumuz. O’ndan başka ilahlar edinmişler. Açık bir delil getirmeli değiller miydi? Allah’a yalanla iftira edenlerden daha zalim kim olabilir?
+Bunlar bizim toplumumuz. O’ndan başka ilahlar edinmişler. Açık bir delil getirmeli değiller miydi? Allah’a yalanla iftira edenlerden daha zalim kim olabilir?  
+🔑 Gençler birilerine olayı anlatıyorlar.
 
 📌[18-16](https://acikkuran.com/18/16):
 (Onlara): “Mademki onlardan ve Allah’tan başka yalvardıklarından çekildiniz, o halde mağaraya sığının, ta ki Rabbiniz sizin için rahmetini genişletsin ve size işinizi kolaylaştırsın” (denildi).  
