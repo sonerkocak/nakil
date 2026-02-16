@@ -2,7 +2,7 @@
 title = 'Atalarımız'
 date = 2026-02-16T19:19:19+19:19
 draft = false
-tags = ["Atalarımız", "Furkan"]
+tags = ["Atalarımız", "Nakil", "Rivayet", "Taklit", "Dogma", "Sorgulama", "Furkan"]
 +++
 
 📌[8-20](https://acikkuran.com/8/20):
