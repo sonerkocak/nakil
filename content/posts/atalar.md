@@ -152,3 +152,6 @@ Yoksa biz onlara bundan önce bir kitap verdik de ona mı tutunuyorlar?
 
 📌[53-23](https://acikkuran.com/53/23):
 Muhakkak ki bunlar sizin ve atalarınızın isimlendirdiği isimlerden başkası değildir. Allah, onlar hakkında bir delil indirmemiştir. Onlar ancak zanna ve arzularına uymaktadırlar. Ve andolsun ki onlara Rablerinden hidayet gelmiştir.
+
+⭐ Kuran; katmanlı ve müteşabih yapısıyla insanlığın algısı geliştikçe daha iyi anlaşılacak. [39-23](https://acikkuran.com/39/23) [3-7](https://acikkuran.com/3/7)  
+⭐ Matematiksel delillerinin de keşfedilmesi ve anlaşılması zamanla yükselecek. [74/30](https://acikkuran.com/74/30)  [74-31](https://acikkuran.com/74/31) [41-53](https://acikkuran.com/41/53)
