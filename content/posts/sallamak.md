@@ -2,7 +2,7 @@
 title = 'Sallamak'
 date = 2026-02-17T19:19:19+19:19
 draft = false
-tags = ["Salla", "Namaz"]
+tags = ["Namaz", "Ritüel", "Salat"]
 +++
 
 🔎 Aldırmak, Önem vermek, Dikkate almak, Ciddiye almak ➡️ [TDK](https://sozluk.gov.tr/?ara=sallamamak)
@@ -32,7 +32,7 @@ Onlar öyle kimselerdir ki [gaybe](https://www.nakil.org/posts/gayb) iman eder, 
 🔎 Salat: dayanışma, destek olma, yakından takip etmek.  
 🔑 İyi insanlar Bir olamadığı için pislik içerisinde yüzüyoruz. O, kalplerimizi birleştirecek: Sosyal, psikolojik, politik ve ekonomik dayanışmamız ile yeryüzü cennete dönecek.  
 🔑 Barış(İslam) sorumluluğu(dini) olan, bilinçli(takvalı) insanlarla hedeflenen zirve ➡️ Kuran bizi zirvede bekliyor 🥹  
-🔑 Arapça'da [8 farklı](https://www.nakil.org/posts/kitap-hikmet/) 've' kullanımı var. Kuran'ın salat'ı bu şekilde açıklıyor.  
+🔑 Arapça'da [8 farklı](https://www.nakil.org/posts/kitap-hikmet/) 've' kullanımı var. Kuran salat'ı bu şekilde açıklıyor.  
 👉 Bahşettiğinden infak. Her şey bu kapsama giriyor: sağlık, kuvvet, akıl, bilgi, fikir, domates, maaş, miras...
 
 
@@ -49,7 +49,7 @@ Sabır ve salât ile yardım isteyin. Muhakkak ki bu, tevazu sahipleri dışınd
 🔑 Salat: + [iyilikle bezenmiş Hak ve sabır desteği](https://acikkuran.com/103/3)
 
 📌[2-83](https://acikkuran.com/2/83):
-Hani İsrailoğullarından: “Allah’tan başkasına kulluk etmeyeceksiniz61, anne-babaya, yakınlara, yetimlere ve yoksullara ihsan edeceksiniz, insanlara güzel söz söyleyeceksiniz, salâti ayakta tutacak ve zekâtı vereceksiniz” diye bir söz almıştık. Sonra pek azınız hariç yüz çevirdiniz ve (hâlâ) dönmektesiniz.
+Hani İsrailoğullarından: “Allah’tan başkasına kulluk etmeyeceksiniz, anne-babaya, yakınlara, yetimlere ve yoksullara ihsan edeceksiniz, insanlara güzel söz söyleyeceksiniz, salâti ayakta tutacak ve zekâtı vereceksiniz” diye bir söz almıştık. Sonra pek azınız hariç yüz çevirdiniz ve (hâlâ) dönmektesiniz.
 
 📌[2-110](https://acikkuran.com/2/110):
 Ve salâti ayakta tutun ve zekâtı verin. Kendi nefsinizin iyiliği için ne sunduysanız, onu Allah katında bulursunuz. Muhakkak ki Allah yaptıklarınızı görmektedir.
@@ -75,14 +75,14 @@ Yeryüzünde sefere çıktığınızda kâfirlerin size zarar vermesinden korkar
 📌[4-102](https://acikkuran.com/4/102):
 Salâti ayakta tutmak için onların içinde olduğunda, onlardan bir grup tetikte kalsınlar ve silahlarını alsınlar. Onlar kabullendikten sonra arkanızda olsunlar. Sonra salâtte bulunmamış diğer grup gelsin ve seninle salât etsin. Korunma tedbirlerini ve silahlarını da alsınlar. Küfürde direnenler, silahlarınızdan ve mühimmatınızdan gafil olmanızı isterler ki tek bir hamlede size saldırsınlar. Yağmur sebebiyle size bir zorluk geldiyse veya hasta olduysanız silahlarınızı bırakmanızda sizin için bir mahzur yoktur. Muhakkak ki Allah, kâfirler için alçaltıcı bir azap hazırladı.  
 📌[4-103](https://acikkuran.com/4/103):
-Salâtinizi gerçekleştirirken Allah’ı gerek ayakta, gerek oturarak, gerekse yan yatarak anın. Güvende olduğunuzda da salâti ayakta tutun. Muhakkak ki salât belirli vakitlerde61 müminlere öngörülmüştür.
+Salâtinizi gerçekleştirirken(karar verdiğinizde) Allah’ı gerek ayakta, gerek oturarak, gerekse yan yatarak anın. Güvende olduğunuzda da salâti ayakta tutun. Muhakkak ki salât belirli vakitlerde(durumlarda) müminlere öngörülmüştür.
 
 📌[5-55](https://acikkuran.com/5/55):
 Sizin veliniz ancak Allah, resulü ve salâti ayakta tutup zekâtı veren ve (Allah’ın emirlerine) boyun eğen müminlerdir.
 
 📌[5-91](https://acikkuran.com/5/91):
 Şeytan, ‘Şarap ve kumar’ ile aranıza düşmanlık ve kin sokmak ve sizi Allah’ı hatırlamaktan ve salâtten alıkoymak ister. Artık vazgeçtiniz mi?  
-🔑 Bilincimizi ve paramızı kaybetmek yerine; bir öğrenci çağırsak, komşularımızla birlikte yiyip içip ilminden istifade etsek. Cebine de harçlık koyuo göndersek mesela?
+🔑 Bilincimizi ve paramızı kaybetmek yerine; bir öğrenci çağırsak, komşularımızla birlikte yiyip içip ilminden istifade etsek. Cebine de harçlık koyup göndersek mesela?
 
 📌[7-170](https://acikkuran.com/7/170):
 Onlar Kitab’a sarılırlar ve salâti ayakta tutarlar. Muhakkak ki biz salihlerin iyiliklerini zayi etmeyiz.  
@@ -111,16 +111,18 @@ Göklerde ve yerde bulunan(lar) ve dizi halinde uçan kuşların Allah’ı tesb
 Allah ve melekleri peygambere destek olmaktadır. Ey iman edenler, siz de onu destekleyin ve ona tam bir teslimiyetle teslim olun. 
 
 📌[62-9](https://acikkuran.com/62/9):
-Ey iman edenler, toplantı günü salâte çağrıldığınızda Allah’ın anılmasına koşun ve ticareti6 bırakın. Eğer bilseniz, bu sizin için daha hayırlıdır.  
-🔑 Sabit gün ve saatte değil, ihtiyaca anında ani toplanmalar.
-
+Ey iman edenler, toplantı günü salâte çağrıldığınızda Allah’ın anılmasına koşun ve ticareti bırakın. Eğer bilseniz, bu sizin için daha hayırlıdır.  
+🔑 Sabit gün ve saatte değil, ihtiyaca anında ani toplantılar.  
+📌[2-125](https://acikkuran.com/2/125):
+Ve Beyt’i insanlar için iyilik ve güvence yeri kıldık. O halde siz İbrahim’in makamını salât yeri edinin. Ve İbrahim ve İsmail’e Beyt’imi, ziyaretçiler, adananlar, (Allah’ın buyruklarına) boyun eğenler ve (onları) kabullenenler için temiz tutmaları hususunda ahdettik.  
+🔑 Bu ise yıllık, planlı bir salat. Tüm insanlar için.
 
 
 📌[16-30](https://acikkuran.com/16/30):
 Ve bilinçli olanlara: “Rabbiniz size ne indirdi?” denildiğinde: “İyilik!” dediler. Bu dünyada iyilik yapanlara güzellik vardır. Ahiret yurdu ise daha hayırlıdır. Bilinçlilerin yurdu ne nimettir!
 
 📌[23-61](https://acikkuran.com/23/61):
-İşte onlar, hayırlarda yarışmaktadırlar ve bunda öncüdürler.
+İşte onlar, iyiliklerde yarışmaktadırlar ve bunda öncüdürler.
 
 ⭐ O'na iyilik borcumuz/sözümüz(din) var..  
 🔑 Sorun ritüel değil. Ritüeli din bilip tüm enerjimizi ona harcamak.  
@@ -129,4 +131,4 @@ Ve bilinçli olanlara: “Rabbiniz size ne indirdi?” denildiğinde: “İyilik
 👉 Namaz da kılsak, yoga da yapsak; Kuran ve kainat hakikatlerini okumalı, düşünmeli, anlamalı ve anlatmalıyız.  
 👉 Ne dediğimizi bilmeli, dediklerimizin de şirk unsuru içermediğinden emin olmalıyız.  
 👉 Bu kısım bizim ihtiyacımız için. Yapıyorsak kendi kıvamımız için yapmalıyız.  
-⭐ Kendi zirvemize yükselmeli ve iyilikte yarışmalı; O'nun övgüye(hamd) değer olduğunu hissetmeli ve fıtratımıza verdikleriyle, arı misali bal(tesbih) yapmalıyız.
+⭐ Kendi zirvemize yükselmeli ve iyilikte yarışmalı; O'nun övgüye(hamd) değer olduğunu hissetmeli ve fıtratımıza verdikleriyle, arı misal bal yapmalıyız(tesbih).

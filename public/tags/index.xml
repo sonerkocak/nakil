@@ -16,10 +16,17 @@
       <description></description>
     </item>
     <item>
-      <title>Salla</title>
-      <link>http://localhost:1313/tags/salla/</link>
+      <title>Ritüel</title>
+      <link>http://localhost:1313/tags/rit%C3%BCel/</link>
       <pubDate>Tue, 17 Feb 2026 19:19:19 +1919</pubDate>
-      <guid>http://localhost:1313/tags/salla/</guid>
+      <guid>http://localhost:1313/tags/rit%C3%BCel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Salat</title>
+      <link>http://localhost:1313/tags/salat/</link>
+      <pubDate>Tue, 17 Feb 2026 19:19:19 +1919</pubDate>
+      <guid>http://localhost:1313/tags/salat/</guid>
       <description></description>
     </item>
     <item>

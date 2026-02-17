@@ -11,7 +11,10 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-02-17T19:19:19+19:19</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/salla/</loc>
+    <loc>http://localhost:1313/tags/rit%C3%BCel/</loc>
+    <lastmod>2026-02-17T19:19:19+19:19</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/salat/</loc>
     <lastmod>2026-02-17T19:19:19+19:19</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/sallamak/</loc>
