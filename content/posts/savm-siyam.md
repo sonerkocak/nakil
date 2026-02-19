@@ -66,6 +66,5 @@ Haydi ye, iç; gözün aydın olsun. Beşerden bir kimseyi görürsen “Ben Rah
 🔑 Meryem annemiz yıllar boyunca kendini ve oğlu İsa Mesih'i dini konularda yetiştirmiştir. Kutsal'ın Ruhu tarafından da desteklenmiş olmalılar.  
 🔑 Önceki ayette su ve olgun hurmaların verilmesi; aç-susuz kalarak değil de; toplumdan uzaklaşması ile zikire yoğunlaşmayı öne çıkarıyor.
 
-📌 [58/3](https://acikkuran.com/58/4) ayetinde; sözleşmeli destek verdiği Nisa'ya(muhtaçlara) sırtını dönenler(zihar) konu alınıyor:  
-🔑 [58/4](https://acikkuran.com/58/4) ayetinde; 2 ay savm ederek mümin özelliğini geri kazanması isteniyor.  
+ 📌 [58/4](https://acikkuran.com/58/4) ayetinde; yanlış yapanların; 2 ay savm ederek mümin özelliğini geri kazanması isteniyor.  
 ❤️ Ancak öncesinde; Köle azadına öncelik veriliyor. Rabbimiz aslında bize bir hedef gösteriyor: Yeryüzünde haksız yere özgürlüğü gasp edilmiş kimse kalmasın!
