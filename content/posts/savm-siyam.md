@@ -36,7 +36,10 @@ Muhakkak ki dosdoğru olan yolum budur, öyleyse ona uyun. Başka yollara uymay�
 🔑 Amacının da; "hidayet, Hüda tarafından açık deliller ve (hak ile batılı) ayırmak" olduğunu belirtir.  
 🔑 şehid: Kuran'ın indirilişine şahit ol. Kalbine indir onu.  
 🔑 Allah, sizin için zorluk değil kolaylık diler.  
-🔑 iddeti tamamla: Planladığın çalışmayı mükemmel şekilde, başarıyla tamamla.
+🔑 iddeti tamamla: Planladığın çalışmayı mükemmel şekilde, başarıyla tamamla.  
+⚠️ Şehr(açığa çıkmak) Ramazan(şiddetli sıcak): mecaz olarak alırsak; kim şahit olursa sizden kızışıklığa;  
+1️⃣ Takvim, gözlem vs.'ye ihtiyaç duymadan en sıcak dönem başlayınca farkına varırız.  
+2️⃣ içimizden kim şahit olursa: hepimiz değil, sadece sıkıntılı döneme girenler için.
 
 📌 [2-186](https://acikkuran.com/2/186) ayetinde:  
 🔑 "onlar (da) bana (bu davetime) icabet etsinler" der Rabbimiz.  
@@ -66,5 +69,14 @@ Haydi ye, iç; gözün aydın olsun. Beşerden bir kimseyi görürsen “Ben Rah
 🔑 Meryem annemiz yıllar boyunca kendini ve oğlu İsa Mesih'i dini konularda yetiştirmiştir. Kutsal'ın Ruhu tarafından da desteklenmiş olmalılar.  
 🔑 Önceki ayette su ve olgun hurmaların verilmesi; aç-susuz kalarak değil de; toplumdan uzaklaşması ile zikire yoğunlaşmayı öne çıkarıyor.
 
- 📌 [58/4](https://acikkuran.com/58/4) ayetinde; yanlış yapanların; 2 ay savm ederek mümin özelliğini geri kazanması isteniyor.  
+📌 [58/4](https://acikkuran.com/58/4) ayetinde; yanlış yapanların; 2 ay savm ederek mümin özelliğini geri kazanması isteniyor.  
 ❤️ Ancak öncesinde; Köle azadına öncelik veriliyor. Rabbimiz aslında bize bir hedef gösteriyor: Yeryüzünde haksız yere özgürlüğü gasp edilmiş kimse kalmasın!
+
+⭐ Suç/günah işleyene siyam emrediliyor. Ancak böyle tövbeler kabul ediliyor:  
+📌 [25-71](https://acikkuran.com/25/71):
+Kim pişmanlığını arz eder ve salih işler yaparsa muhakkak ki pişmanlığı kabul edilmiş olarak Allah’a döner.  
+🔑 Büyük bir suç/günah işleyen kişi ömür boyu sıkıntısını atlatamayabilir. Ahirete kalma korkusu da yaşar.  
+❤️ Ancak siyam eder(Kuran'ı okur ve hayatına uygulamaya başlar), Allah affedeceğini taahhüt ediyor. Hem dünyası hem de ahireti için rahatlıyor.  
+🔑 Günahlarımızdan pişman olup iyiliğe koşuşturmak için ne yapmak gerekir?  
+🅰️ aç-susuz kalmak.  
+🅱️ Kuran'ı okuyup yaşamaya çalışmak.
