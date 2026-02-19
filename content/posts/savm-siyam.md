@@ -55,8 +55,8 @@ Muhakkak ki dosdoğru olan yolum budur, öyleyse ona uyun. Başka yollara uymay�
 🔑 vebtegu: Şiddetle isteyin/arayın Allah'ın sizin için yazdığını(doğru yola ileten şeyleri).  
 🔑 kulu: Yiyin ➡️ Tüketin. Hakikatleri sindirin/eritin.  
 🔑 veşrabu: İçin ➡️ Hakikatler içine nüfuz etsin / Sindir / Özümse - [2-93](https://acikkuran.com/2/93)  
-🔑 Fecrin: Kuran'da mecazi/kapalı olarak verilen konuların da size açılması.  
-🔑 Sizce beyaz iplik siyah iplikten seçilinceye kadar: İyi ve Kötü şeylerin kendi arasındaki bağları görebilmek.  
+🔑 Sizce beyaz iplik siyah iplikten seçilinceye kadar: “hak ile batılı birbirinden ayırana kadar”, Furkan, Kuran..  
+🔑 Fecirden geceye kadar siyamı tamamlayın. (İpleri başka yer bulamayınca fecre bağlamışlar)  
 🔑 Mescitlerde itikaf: Odanda yoğunlaşmış çalışırken; keşfettiğin şeyler için müjde vermeye koşma. Akşamı bekle.  
 ⭐ Allah takvaya(duyarlılığa) ulaşsınlar diye ayetlerini insanlara işte böyle açıklıyor.
 
