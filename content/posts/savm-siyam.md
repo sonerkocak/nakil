@@ -6,7 +6,8 @@ tags = ["Savm", "Siyam", "Tut", "Kuran", "Oruç"]
 +++
 
 🔎 savm: tutmak, alıkoymak. Bir şeyi yapmaktan çekinmek.  
-🔎 siyam: aynı kök. Çoğul. Ramazan ayında toplu yapılması.
+🔎 siyam: aynı kök. Çoğul. Ramazan ayında toplu yapılması.  
+🔎 oruç: Farsça üzerinden bize geçmiş ➡️ gün ışığı.
 
 📌[2-183](https://acikkuran.com/2/183):
 Ey iman edenler! Siyam sizden öncekilere yazıldığı gibi size de yazıldı. Umulur ki takva(bilinç sahibi) olursunuz.  
