@@ -1,6 +1,6 @@
 +++
 title = "19-0 Hazırlık Dersi"
-date = 2028-01-08T19:19:19+19:19
+date = 2038-01-08T19:19:19+19:19
 draft = false
 tags = ["19"]
 +++
