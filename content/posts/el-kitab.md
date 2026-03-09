@@ -90,3 +90,21 @@ El-Gayb: Rabbiyle kalbi üzerinden iletişime geçmek. Fıtratına yazılı olan
 💎 Emin olurlar sana ikram edilen ile ve ikram edilenlerden senin kabul ettiğin. Ve El-Ahiret ile yakinen emin olurlar.  
 🔑 El-Ahiret: Sonraki hayatımız [2-201](https://acikkuran.com/2/201)  
 🔑 yakin: Kesin bilgi.
+
+📌 [2-5:](https://acikkuran.com/2/5)  
+💎 Onlar bir hidayet üzerindedir Rab'lerinden. Ve işte onlardır El-Muflihun.  
+🔑 Felah: Başarı. Mu-Felah: Başarı sahibi.
+
+📌 [2-6:](https://acikkuran.com/2/6)  
+💎 Elbette ki Kafirler uyumludur, önceden belirtsen de, belirtmesen de. Emin olmazlar.  
+🔑 Kefere: Bilerek örten. Allah örter: [29-7](https://acikkuran.com/29/7) İbrahim örter: [60-4](https://acikkuran.com/60/4)  
+🔑 Seviye: Uyumlu, eşit.  
+🔑 Nezir: Önceden belirtmek, uyarmak, adamak.
+
+📌 [2-7:](https://acikkuran.com/2/7)  
+💎 İmzalamıştır Allah kalplerinin üzerini ve anlamalarının üzerini. Ve vizyonlarına sargı. Ve onlar için büyük bir azab.  
+🔑 Hatem: Mühür, imza.  
+🔑 Semi: İşiten, anlayan.  
+🔑 Basir: Görmek, vizyon.  
+🔑 Gişave: Örtü, sargı.  
+🔑 Azab: Tatlı su kesintisi. İlahi bilgi akışının durması.
