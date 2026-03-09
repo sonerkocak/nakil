@@ -1,16 +1,26 @@
 +++
 title = "El-Kitab (The Book)"
-date = 2026-02-28T19:19:19+19:19
+date = 2026-03-09T19:19:19+19:19
 draft = false
 tags = ["El Kitab"]
 +++
 
-⭐ El Kitab'ın bir yüzü: Kainat [33-72](https://acikkuran.com/33/72)  
-⭐ Rabbimiz El-Kitab'ı; Rahim'de ilk gelişen organımıza(kalbimize) fıtrat olarak yazdı. [55-2](https://acikkuran.com/55/2) [30-30](https://acikkuran.com/30/30)  
-⭐ [2-213](https://acikkuran.com/2/213)
+⭐ Kainat kitabı; oyun ve öğrenme alanım, kendim olma sahnem.  
+⭐ El-Rahman, El-Kuran'ı Rahim'de bana öğretti, beni ahlaklandırdı. El-İnsan oldum. [55-2](https://acikkuran.com/55/2) [55-3](https://acikkuran.com/55/3)  
+⭐ Şimdi görevim; El-Kitab'ı anlayıp El-Kuran'ı yaşamak. [28-85](https://acikkuran.com/28/85)  
+⭐ El-Din için Hanif fıtratıma dönmek [30-30](https://acikkuran.com/30/30)  
+⭐ Umuyorum ki; El-Arz bedenime varis olan salih bir hizmetçi olurum. [21-105](https://acikkuran.com/21/105)  
+⭐ İkram edilen İyilik özüyle yeryüzüne iyilik tohumları ekerim. [16-30](https://acikkuran.com/16/30) [2-177](https://acikkuran.com/2/177)
+
+⭐ [2-213](https://acikkuran.com/2/213):
 İnsanlar bir tek topluluktu...  
 Sonra; anlaşmazlığa düştükleri konularda hükmetmeleri için El-Kitab'ı El-Hak ile indirdi...
 
+⭐ [48-17](https://acikkuran.com/48/17):  
+🔹 Yoktur zorluk El-Ama'ya. (toplumum ve hayvani yanım kör etmiş beni)  
+🔹 Yoktur zorluk El-Arac'a. (taşlı tepelerde burkulmuş bileğim. Topal aksak yürüyebiliyorum ancak)  
+🔹 Yoktur zorluk El-Maraz'a. (hatalarımla kararmış kalbim)  
+🔹 Gönülden yönelsem yeter El-Kitab'a...
 
 📌 [1-1:](https://acikkuran.com/1/1)  
 💎 İle s(e)m(a) Allah, El-Rahman, El-Rahim  
@@ -73,4 +83,10 @@ tersi hanif(yanlıştan sapıp hidayete yönelmek) [30-30](https://acikkuran.com
 🔑 gayb: Algılarımızın dışında.  
 El-Gayb: Rabbiyle kalbi üzerinden iletişime geçmek. Fıtratına yazılı olanı ve Kainat kitabını elindeki El-Kitab ile bütünleştirmek. [50-16](https://acikkuran.com/50/16), [16-106](https://acikkuran.com/16/106)  
 🔑 Salat: bağlantı. Kendimizle, Rabbimizle ve diğer varlıklarla bağ kurmak.  [2-83](https://acikkuran.com/2/83), [2-110](https://acikkuran.com/2/110), [2-157](https://acikkuran.com/2/157), [2-177](https://acikkuran.com/2/177)  
+🔎 [sallamak](https://www.nakil.org/posts/sallamak)  
 🔑 infak: Kendi tükettiğini paylaşmak. Moral, umut, yiyecek, para, bilgi, enerji vb.
+
+📌 [2-4:](https://acikkuran.com/2/4)  
+💎 Emin olurlar sana ikram edilen ile ve ikram edilenlerden senin kabul ettiğin. Ve El-Ahiret ile yakinen emin olurlar.  
+🔑 El-Ahiret: Sonraki hayatımız [2-201](https://acikkuran.com/2/201)  
+🔑 yakin: Kesin bilgi.
