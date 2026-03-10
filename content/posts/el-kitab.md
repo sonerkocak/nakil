@@ -108,3 +108,47 @@ El-Gayb: Rabbiyle kalbi üzerinden iletişime geçmek. Fıtratına yazılı olan
 🔑 Basir: Görmek, vizyon.  
 🔑 Gişave: Örtü, sargı.  
 🔑 Azab: Tatlı su kesintisi. İlahi bilgi akışının durması.
+
+📌 [2-8:](https://acikkuran.com/2/8)  
+💎 Ve El-Nas'tan öyleleri derler: Emin olduk Allah ile. Ve El-Yevm-i El-Ahir ile. Değiller onlar Emin olanlar ile.  
+🔑 El-Nas: Yalanlara inanmış kesim.  
+🔑 El-Yevm-i El-Ahir: O Sonra'daki O Dönem.
+
+📌 [2-9](https://acikkuran.com/2/9): "" "" ""  
+
+📌 [2-10](https://acikkuran.com/2/10): "" "" ""  
+🔑 Yalancı perçem: Alnımız. Altında ön lob: Entelektüel beyin. [96/16](https://acikkuran.com/96/16)
+
+📌 [2-11:](https://acikkuran.com/2/11)  
+💎 Onlara denildiği zaman yapmayın bozgunculuk El-Arz'da. Derler sadece biz düzelticileriz.  
+🔑 El-Arz: El-İnsan'ın işletim sistemi.
+
+📌 [2-12](https://acikkuran.com/2/12): "" "" ""  
+
+📌 [2-13](https://acikkuran.com/2/13): "" "" ""  
+🔑 El-Nas gibi inanmaya yönelin deniyor. Muhatap El-Sufeha. [6-140](https://acikkuran.com/6/140)
+
+📌 [2-14](https://acikkuran.com/2/14): "" "" ""  
+📌 [2-15](https://acikkuran.com/2/15): "" "" ""  
+
+📌 [2-16:](https://acikkuran.com/2/16)  
+💎 Onlar takas ettiler El-Dalalet'i El-Hüda ile. Ticaretleri kar etmedi. Değiller doğru yolu bulanlardan.  
+🔑 El-Dalalet: yolu şaşırmak, kaybolmak.  
+🔑 El-Hüda: doğru yola rehber.
+
+📌 [2-17:](https://acikkuran.com/2/17)  
+💎 Durumları durumu gibidir: El-Ziya yaktı bir ateş. Aydınlattığı zaman çevresini, uzaklaştı Allah nuruyla. Ve terketti karanlığa. Değiller görenlerden.  
+🔑 El-Ziya: Allah'ın sıfatı.
+
+📌 [2-18:](https://acikkuran.com/2/18)  
+💎 Kapalıdırlar, ifade edemezler, körelirler. Dönecek de değiller.
+
+📌 [2-19:](https://acikkuran.com/2/19)  
+💎 Veya ulaşan El-Sema'dan, karanlıklar içinde. Gürleme ve parıltı. Yaparlar işaretlerini (Allah'ın)duyurusunda, ölüm korkusu El-Savaik'inden. Allah kuşatandır El-Kafirin ile.  
+🔑 El-Sema: O Yüce. Allah'ın sıfatı.  
+🔑 El-Savaik: Şok, bayfınlık.  
+🔑 El-Kafirin: O Örten.
+
+📌 [2-20:](https://acikkuran.com/2/20)  
+💎 Neredeyse El-Berk kapıverecek vizyonlarını. Aydınlattığında yürürler içinde. Karanlık çöktüğünde üzerlerine dikilip kalırlar. Eğer dileseydi Allah terkederdi anlayış ve vizyonlarıyla. Şüphesi Allah herşey üzerine güç yetirendir.  
+🔑 El-Berk: Parıltı. Allah'ın sıfatı.
