@@ -63,8 +63,9 @@ Rabbin öğrettiği gerçeği yaşamak
 🔑 mustakim: düz, doğru(en kolay yol, en kısa mesafe, hipotenüs) [67-22](https://acikkuran.com/67/22)  
 
 📌 [1-7:](https://acikkuran.com/1/7)  
-💎 Yoluna onların, nimetlendirdiğin üzerlerine. Olmayan o gazap edilenlerin üzerlerine; değil o dalalet içindekilerin.  
+💎 Yoluna onların, nimetlendirdiğin üzerlerine. Olmayan üzerlerine El-Mağdub; değil o dalalet içindekilerin.  
 🔑 nimet: Rabbin bilgisi(Ruh) [2-211](https://acikkuran.com/2/211), [3-103](https://acikkuran.com/3/103), [5-7](https://acikkuran.com/5/7), [5-110](https://acikkuran.com/5/110)  
+🔑 El-Mağdub: Gazab sahibi. Allah'ın sıfatı.  
 🔑 gazap: hoşnutsuzluk [16-106](https://acikkuran.com/16/106)  
 🔑 dalalet: yoldan sapmak, hidayet yolundan çıkmak. [2-16](https://acikkuran.com/2/16)  
 tersi hanif(yanlıştan sapıp hidayete yönelmek) [30-30](https://acikkuran.com/30/30)  
