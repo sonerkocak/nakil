@@ -145,10 +145,18 @@ El-Gayb: Rabbiyle kalbi üzerinden iletişime geçmek. Fıtratına yazılı olan
 
 📌 [2-19:](https://acikkuran.com/2/19)  
 💎 Veya ulaşan El-Sema'dan, karanlıklar içinde. Gürleme ve parıltı. Yaparlar işaretlerini (Allah'ın)duyurusunda, ölüm korkusu El-Savaik'inden. Allah kuşatandır El-Kafirin ile.  
-🔑 El-Sema: O Yüce. Allah'ın sıfatı.  
+🔑 El-Sema: O Zirve, yükselen yapı. 7 adet özellik/katman ile insani bilincimiz.  
 🔑 El-Savaik: Şok, bayfınlık.  
 🔑 El-Kafirin: O Örten.
 
 📌 [2-20:](https://acikkuran.com/2/20)  
 💎 Neredeyse El-Berk kapıverecek vizyonlarını. Aydınlattığında yürürler içinde. Karanlık çöktüğünde üzerlerine dikilip kalırlar. Eğer dileseydi Allah terkederdi anlayış ve vizyonlarıyla. Şüphesi Allah herşey üzerine güç yetirendir.  
 🔑 El-Berk: Parıltı. Allah'ın sıfatı.
+
+📌 [2-21:](https://acikkuran.com/2/21)  
+💎 Ey siz El-Nas, hizmet edin Rabbinize. El-Ziya ahlaklandırdı sizi ve o kimseleri kabul ettiklerinizden. Umulur ki bilinç sahibi olursunuz.
+
+📌 [2-22:](https://acikkuran.com/2/22)  
+💎 El-Ziya dönüştürdü sizin için El-Arz'ı sergiye. Ve El-Sema'yı bir yapıya. Ve ikram etti El-Sema'dan su(Rabbin bilgisi). Böylece çıkardı 
+ onunla El-Semerat'tan rızık sizin için. Öyleyse dönüştürmeyin Allah için ayrılma noktaları. Ve siz de bilirsiniz.  
+ 🔑 El-Semere: İlahi karşılıklar.
