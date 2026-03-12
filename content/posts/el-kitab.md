@@ -31,11 +31,11 @@ Sonra; anlaşmazlığa düştükleri konularda hükmetmeleri için El-Kitab'ı E
 🔎 [Besmele-19](https://19.nakil.org/besmele)
 
 📌 [1-2:](https://acikkuran.com/1/2)  
-💎 El-Hamd Allah için, Rabbidir, El-Alimler'in.  
+💎 El-Hamd Allah için, Rabbidir, El-Alemeyn(O iki alem).  
 🔑 Hamd: sorumluluk, hakkını vermek [9/112](https://acikkuran.com/9/112)  
 🔑 Rab: Öğrenmeyi öğreten [2-124](https://acikkuran.com/2/124)  
-🔑 Alim: Bilen, emin olan [2-26](https://acikkuran.com/2/26)  
-İçindeki alemi keşfeden [26-24](https://acikkuran.com/26/24)  
+🔑 El-Alemeyn: O iki alemin. Nefsimizde ve Ufukta. [41-53](https://acikkuran.com/41/53)  
+İçimizdeki alem de Yer ve yedi Gök yapısında [26-24](https://acikkuran.com/26/24)  
 🔎 [Açılış-19](https://19.nakil.org/besmele)
 
 📌 [1-3:](https://acikkuran.com/1/3)  
