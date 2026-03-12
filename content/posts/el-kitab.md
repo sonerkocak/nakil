@@ -161,3 +161,19 @@ El-Gayb: Rabbiyle kalbi üzerinden iletişime geçmek. Fıtratına yazılı olan
 💎 El-Ziya dönüştürdü sizin için El-Arz'ı sergiye. Ve El-Sema'yı bir yapıya. Ve ikram etti El-Sema'dan su(Rabbin bilgisi). Böylece çıkardı 
  onunla El-Semerat'tan rızık sizin için. Öyleyse dönüştürmeyin Allah için ayrılma noktaları. Ve siz de bilirsiniz.  
  🔑 El-Semere: İlahi karşılıklar.
+
+📌 [2-23:](https://acikkuran.com/2/23)  
+💎 Şüphe içindeyseniz hizmetçilerimize ikram ettiğimizden; gelin bir sure ile benzeri. Ve çağırın şahitlerinizi Allah'ın astından, eğer doğruysanız.  
+🔑 abidine: abd, çoğul.
+
+📌 [2-24:](https://acikkuran.com/2/24)  
+💎 Yapamazsanız ki asla yapamayacaksınız. Bilinçlenin El-Nar ki yakıtı El-Nas ve El-Hacerat, hesaplanmış El-Kafirin için.  
+🔑 El-Nar: O Alev.  
+🔑 El-Hacerat: Engellemek. [7-50](https://acikkuran.com/7/50)  
+🔑 adede: saymak, hesaplamak.  
+
+📌 [2-25:](https://acikkuran.com/2/25)  
+💎 Müjdele emin olanları ve işleyenleri El-Salihat. Şüphesiz onlara cennet, cereyan eden El-Nehar altında. Her rızıklandıklarında onlardaki karşılıktan rızık olarak. Derler İşte El-Ziya, rızıklandırır bizi kabul ettiğimizden. Ve verilmiştir onun ile benzeri. Ve onlara orada yoldaşlar arınma sahibi. Ve orada kalıcıdırlar.  
+🔑 El-Salihat: O Düzeltici.  
+🔑 Cennet: Sarmalanmış.  
+🔑 El-Nehar: İlahi su ve parıltı yayılımı.  
