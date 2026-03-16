@@ -1,4 +1,4 @@
-+++
+    +++
 title = "El-Kitab (The Book)"
 date = 2026-03-09T19:19:19+19:19
 draft = false
@@ -177,3 +177,44 @@ El-Gayb: Rabbiyle kalbi üzerinden iletişime geçmek. Fıtratına yazılı olan
 🔑 El-Salihat: O Düzeltici.  
 🔑 Cennet: Sarmalanmış.  
 🔑 El-Nehar: İlahi su ve parıltı yayılımı.  
+
+📌 [2-26:](https://acikkuran.com/2/26)  
+💎 Muhakkak Allah çekinmez vurgulamaktan bir kısmını hatta fazlasını. Gerçekten emin olanlar bilirler kosinlikle o El-Hak'tır Rablerinden. Ve örtenler ise derler ki; neyi diledi Allah bu örnek ile. Saptırır onunla birçoğunu. Ve rehberlik eder birçoğuna. Ve saptırmaz onunla El-Fasık'dan başkasını.  
+🔑 El-Hak: O gerçek.  
+🔑 El-Fasık: O sınırı aşan.
+
+📌 [2-27](https://acikkuran.com/2/27): "" "" ""  
+🔑 El-Arz: O yeryüzü. İnsan bedeni.    
+🔑 El-Hasirun: O kaybeden.
+
+📌 [2-28:](https://acikkuran.com/2/28)  
+💎 Nasıl örtersiniz Allah ile. Sizken ölüler(hayr üretmeyen), O size hayat verdi(verimli hal). Sonra öldürür, sonra hayat verir. Sonra O'na döndürülürsünüz.  
+
+📌 [2-29:](https://acikkuran.com/2/29)  
+💎 O El-Ziya ahlaklandırdı sizin için El-Arz'ın içinde hepsini. Sonra seviyelendi El-Sema üzerine. Seviyeledi onları yedi yükselti olarak. Ve O her unsur ile bilir.  
+🔑 El-Sema: O Yükseltiler
+
+📌 [2-30:](https://acikkuran.com/2/30)  
+💎 O zaman dedi Rabbin El-Melekeler için. Şüphesiz ben yapacağım El-Arz içinde bir halife. Dediler: yapacak mısın orada bozgunculuk çıkaracak? Orada saçacak El-Dima'ı? Oysa biz yüzüyoruz hakkını vermekle. Saflaşırız senin için. Dedi: şüphesiz bilirim bilmediklerinizi.  
+🔑 El-Meleke: O Yapabilen. O güç.  
+🔑 Halife: Yerine geçen.  
+🔑 El-Arz: İnsan bedeni. Melekelerden sonra gelen halife olur.  
+🔑 El-Dima: Can suyu(İlahi bilgi) / (Dimağ): Beyin, zihin, akıl, şuur.  
+🔑 Sübhan: Yüzmek, akmak.
+
+📌 [2-31:](https://acikkuran.com/2/31)  
+💎 Ve öğretti Adem'e bütün El-Esma'ları. Sonra arz edip El-Meleke'lere. Ve dedi haber verin onların esması ile. Eğer sadıklar iseniz.  
+🔑 El-Esma: O Yükselmeler. [17-110](https://acikkuran.com/17/110) [6-41](https://acikkuran.com/6/41)
+
+📌 [2-32:](https://acikkuran.com/2/32)  
+💎 Dediler: Yüzülen sensin. Yoktur bilgi bizim için bize öğrettiğinden başka. Şüphesiz El-Alim'sin, El-Hakim'sin.  
+El-Alim: O Bilen.  
+El-Hakim: O hikmet ve hüküm sahibi.
+
+📌 [2-33:](https://acikkuran.com/2/33)  
+💎 Dedi: Ey Adem, haber ver onların yükselmeleri ile. Yükselmeleriyle haber verince dedi ki: Size dememiş miydim, bilirim gayblarını El-Sema'ların ve El-Arz'ın. Ve bilirim görünenlerinizi ve gizlediklerinizi.
+
+📌 [2-34:](https://acikkuran.com/2/34)  
+💎 Ve dediğimizde El-Melekelere, kabullenin Adem için. Böylece kabullendiler İblis hariç. Kaçındı ve kibirlendi. Ve oldu El-Kafirler'den.  
+🔑 Secde: boyun eğmek, itaat etmek.  
+🔑 Kafir: Örten.
