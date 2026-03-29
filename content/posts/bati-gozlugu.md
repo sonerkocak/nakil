@@ -2,7 +2,7 @@
 title = 'Batı Gözlüğü'
 date = 2026-03-27T19:19:19+19:19
 draft = false
-tags = ["Batı", "Gözlük", "Batıni"]
+tags = ["Batı", "Gözlüğü"]
 +++
 
 [1/1](http://kuranmeali.eu/1/1):  
@@ -111,6 +111,7 @@ tags = ["Batı", "Gözlük", "Batıni"]
 [2/14](http://kuranmeali.eu/2/14):  
 🔑 Lekü: Temas etmek.  
 🔑 Halvet: Issızda yalnız kalmak.  
+🔑 Şeytan: Haktan uzaklaşan.  
 🔑 Müstehzi: Küçümseyici.
 
 [2/15](http://kuranmeali.eu/2/15):  
@@ -126,6 +127,7 @@ tags = ["Batı", "Gözlük", "Batıni"]
 🔑 Misal: Benzer, örnek, temsil.  
 🔑 El-Ziya: Allah'ın sıfatı, Aydınlatan.  
 🔑 Evkid: Tutuşturmak.  
+🔑 Nar: parlama, ışık saçma. vav ile/fiil/nur: ışık saçan.  
 🔑 Diya: Parlamak.  
 🔑 Havl: Dönüşüm.  
 🔑 Zehebe: Yok etmek.  
@@ -167,7 +169,7 @@ tags = ["Batı", "Gözlük", "Batıni"]
 🔑 Niddi: Denk.
 
 [2/23](http://kuranmeali.eu/2/23):  
-🔑 Ati: Gelecek, ileride olacak.  
+🔑 Ati: Gelecek, ileride olacak. Sunmak.  
 🔑 Sur: içten yükselen ve dışa taşan.  
 🔑 Davet: Gelmesini istemek.  
 🔑 Şahit: Tanık.  
@@ -247,7 +249,100 @@ tags = ["Batı", "Gözlük", "Batıni"]
 🔑 Ragad: Bolluk, genişlik, refah içinde.  
 🔑 Haysu: -dığı taraftan.  
 🔑 Kurb: Yakınlık.  
-🔑 Şecere: dallanma.
+🔑 Şecere: dallanma. | Sihir
+
+[2/36](http://kuranmeali.eu/2/36):  
+🔑 Zelle: sürçmek, ayağın kayması.  
+🔑 Hubut: Aşağı seviyeye düşmek.  
+🔑 Adavet: Düşmanlık. Karşı tarafa geçen kişi.  
+🔑 Karar: İstikrar bulmak. Mustakar: varılacak nokta.  
+🔑 Meta: Geçici, geçimlik şey.  
+🔑 Hin: o vakit.
+
+[2/37](http://kuranmeali.eu/2/37):  
+🔑 Kelime: iletişim.  
+🔑 Tevbe: Geri dönmek.
+
+[2/38](http://kuranmeali.eu/2/38):  
+🔑 Teba: Örnek almak.  
+🔑 Hauf: Endişe.  
+🔑 Hüzün: Üzüntü.
+
+[2/39](http://kuranmeali.eu/2/39):  
+🔑 Ayet: Ders.  
+🔑 Sahib: Sahip. Elif ile yön değişir.
+
+[2/40](http://kuranmeali.eu/2/40):  
+🔑 Sari: Gizli akış, bulaşma. I ile yön değişir. il bitişi Allah'a isnat.  
+🔑 Zikir: Hatırlamak, anmak.  
+🔑 Vefa: Sözünde durmak, tamamlamak.  
+🔑 Rahbe: bir şeyden sakınmak.
+
+[2/41](http://kuranmeali.eu/2/41):  
+🔑 Evvel: Başlangıca dönüş.  
+🔑 Semen: bedel.  
+🔑 Kıllet: az, önemsiz.
+
+[2/42](http://kuranmeali.eu/2/42):  
+🔑 Libas: Örtü, örtmek, karıştırmak.  
+🔑 Batıl: Asılsız.
+
+[2/43](http://kuranmeali.eu/2/43):  
+🔑 Zeki: Sorgulamak, temize çıkarmak.  
+🔑 Rüku: Saygılı olmak, tevazu.
+
+[2/44](http://kuranmeali.eu/2/44):  
+🔑 Birr: İyilikte niyet, davranış ve doğruluk.  
+🔑 Nisyân: Görmezden gelmek.  
+🔑 Tilavet: Okumak, takip etmek.  
+🔑 Akıl: İdrak etmek, düşünmek.
+
+[2/45](http://kuranmeali.eu/2/45):  
+🔑 Sabır: Tahammül, metanet. İç kontrol, direnç, istikrar.  
+🔑 Huşu: içten yumuşayıp alçalmak, sükûnete ermek.
+
+[2/46](http://kuranmeali.eu/2/46):  
+🔑 Zan: Sanmak.
+
+[2/47](http://kuranmeali.eu/2/47):  
+🔑 Fazl: Lütuf.
+
+[2/48](http://kuranmeali.eu/2/48):  
+🔑 şefâat: Desteklemek.  
+🔑 Ahize: Tutmak.  
+🔑 Adl: Adalet.  
+🔑 Nasr: Yardım.
+
+[2/49](http://kuranmeali.eu/2/49):  
+🔑 Necat: Ayrılmak, dışarı çıkmak.  
+🔑 Sum: üzerine bir şey yüklemek.  
+🔑 Siva: Denk, başka türlü.  
+🔑 Zebh: yok etmek, ortadan kaldırmak.  
+🔑 Nisyân: Görmezden gelmek.  
+🔑 Bela: Birinin durumunu ortaya çıkarmak.
+
+[2/50](http://kuranmeali.eu/2/50):  
+🔑 Fark: yrım, farklılık.  
+🔑 Bahr: Bilgi Denizi.  
+🔑 Gark: Düşünceye gömülmek.  
+🔑 Nazar: Dikkatle bak.
+
+[2/51](http://kuranmeali.eu/2/51):  
+🔑 Vaad: bir şeyi olacağını bildirmek.  
+🔑 Leyl: karanlık zaman.  
+🔑 Acil: zamanı erken gelmek. El-Acil: İblis.
+
+[2/52](http://kuranmeali.eu/2/52):  
+🔑 Afv: Affetmek.  
+🔑 Şükür: Rabbin ikramını değerlendirmek.
+
+[2/53](http://kuranmeali.eu/2/53):  " " "  
+
+[2/54](http://kuranmeali.eu/2/54):  
+🔑 Beri: Saf ve bağımsuz hale gelmek.  
+🔑 Katl: Etkisini yok etmek.  
+🔑 Hayr: Faydalı.  
+🔑 İnd: O'na göre değeri.
 
 [74/8](http://kuranmeali.eu/74/8):  
 🔑 El-Nakur: Açığa çıkaran. Vurarak oyuk açmak. Sorgulayıp açığa çıkarmak.
