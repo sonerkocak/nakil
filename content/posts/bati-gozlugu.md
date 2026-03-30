@@ -120,8 +120,8 @@ tags = ["Batı", "Gözlüğü"]
 🔑 Ameha: Bilinçsizlik.
 
 [2/16](http://kuranmeali.eu/2/16):  
-🔑 eşri: takasa etmek.  
-🔑 Rabih: kar.
+🔑 eşri: takas etmek.  
+🔑 Rabih: kâr.
 
 [2/17](http://kuranmeali.eu/2/17):  
 🔑 Misal: Benzer, örnek, temsil.  
@@ -322,7 +322,7 @@ tags = ["Batı", "Gözlüğü"]
 🔑 Bela: Birinin durumunu ortaya çıkarmak.
 
 [2/50](http://kuranmeali.eu/2/50):  
-🔑 Fark: yrım, farklılık.  
+🔑 Fark: Ayrım, farklılık.  
 🔑 Bahr: Bilgi Denizi.  
 🔑 Gark: Düşünceye gömülmek.  
 🔑 Nazar: Dikkatle bak.
@@ -343,6 +343,46 @@ tags = ["Batı", "Gözlüğü"]
 🔑 Katl: Etkisini yok etmek.  
 🔑 Hayr: Faydalı.  
 🔑 İnd: O'na göre değeri.
+
+[2/55](http://kuranmeali.eu/2/54):  
+🔑 Hatta: oluncaya kadar.  
+🔑 Rey: Kanaat getirmek. Akla yatmak.  
+🔑 Cehr: Alenen, açıkca.
+
+[2/56](http://kuranmeali.eu/2/56):  
+🔑 Beas: harekete geçirmek.
+
+[2/57](http://kuranmeali.eu/2/57):  
+🔑 Zıll: Kaplamak.  
+🔑 Gam: Kaygı.  
+🔑 Minnet: Ölçülü pay.  
+🔑 Selva: Teselli.  
+🔑 Tayyib: İyi.
+
+[2/58](http://kuranmeali.eu/2/58):  
+🔑 Dahil: İçine karışmak.  
+🔑 Karye: İkram yeri.  
+🔑 Bab: Giriş konusu.  
+🔑 Hatt: Yoluna kondur.  
+🔑 Ğafur: Miğfer.  
+🔑 Hata: Kasıtsız doğruyu tutturamamak.  
+🔑 Hasen: Sarsılmaz mükemmellik.
+
+[2/59](http://kuranmeali.eu/2/59):  
+🔑 Bedel: Farklılaştırmak.  
+🔑 Keşf: Perdeyi aralamak.  
+🔑 Ricz: Huzursuzluk, çalkantı.
+
+[2/60](http://kuranmeali.eu/2/60):  
+🔑 Saki: İlahi bilgiyle sulamak.  
+🔑 Asa: Dayanak.  
+🔑 Fecr: Safağı yarmak.  
+🔑 Sena: Tekrar tekrar anmak.  
+🔑 Aşr: Sayılı gruplar.  
+🔑 Ayn: Bilgi aynağı.  
+🔑 Üns: Yalanlara inanmış insan.  
+🔑 Şurb: bir şeyle dolmak, etkilenmek.  
+🔑 Asi: Zarar vererek yayılmak.
 
 [74/8](http://kuranmeali.eu/74/8):  
 🔑 El-Nakur: Açığa çıkaran. Vurarak oyuk açmak. Sorgulayıp açığa çıkarmak.
