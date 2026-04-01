@@ -61,7 +61,7 @@ tags = ["Batı", "Gözlüğü"]
 🔑 infak: Harcamak.
 
 [2/4](http://kuranmeali.eu/2/4):  
-🔑 Enzele: İkram etmek.  
+🔑 Enzele: yerleşmek.  
 🔑 Kabul: Onaylamak.  
 🔑 El-Ahiret: O Sonraki.  
 🔑 Yakin: Kesin bilgi.
@@ -379,7 +379,7 @@ tags = ["Batı", "Gözlüğü"]
 🔑 Fecr: Safağı yarmak.  
 🔑 Sena: Tekrar tekrar anmak.  
 🔑 Aşr: Sayılı gruplar.  
-🔑 Ayn: Bilgi aynağı.  
+🔑 Ayn: Bilgi kaynağı.  
 🔑 Üns: Yalanlara inanmış insan.  
 🔑 Şurb: bir şeyle dolmak, etkilenmek.  
 🔑 Asi: Zarar vererek yayılmak.
